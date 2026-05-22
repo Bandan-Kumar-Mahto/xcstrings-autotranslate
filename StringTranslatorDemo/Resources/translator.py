@@ -18,47 +18,6 @@ parser.add_argument('--resource-dir', required=False, default=None)
 parser.add_argument('--no-interactive', action='store_true')
 args = parser.parse_args()
 
-# ======================================================
-# AUTO-INSTALL DEPENDENCIES
-# ======================================================
-
-def install_missing_packages():
-    """Automatically install required packages if not found"""
-    required_packages = {
-        'deep_translator': 'deep-translator',
-        'tqdm': 'tqdm'
-    }
-    
-    missing_packages = []
-    
-    # Check which packages are missing
-    for import_name, package_name in required_packages.items():
-        try:
-            __import__(import_name)
-            print(f"✓ {package_name} already installed")
-        except ImportError:
-            print(f"⚠ {package_name} not found, will install...")
-            missing_packages.append(package_name)
-    
-    # Install missing packages
-    if missing_packages:
-        print(f"\nInstalling {len(missing_packages)} package(s)...")
-        try:
-            for package in missing_packages:
-                subprocess.check_call([sys.executable, "-m", "pip", "install", package])
-            print("✓ All packages installed successfully\n")
-        except subprocess.CalledProcessError as e:
-            print(f"✗ Error installing packages: {e}")
-            print("Please manually run: pip install deep-translator tqdm")
-            sys.exit(1)
-
-# Install dependencies before importing
-install_missing_packages()
-
-# Now import after dependencies are guaranteed to exist
-from deep_translator import GoogleTranslator
-from tqdm import tqdm
-
 # Build supported language lookup from deep_translator.
 # This allows fallback from region-style locale tags such as pt-BR, en-GB, zh-Hans, etc.
 _translator_probe = GoogleTranslator(source="en", target="en")
@@ -109,6 +68,47 @@ LANGUAGE_ALIAS_NORMALIZATION = {
     "ji": "yi",    # legacy Yiddish code
     "zh": "zh-CN", # default Chinese fallback
 }
+
+# ======================================================
+# AUTO-INSTALL DEPENDENCIES
+# ======================================================
+
+def install_missing_packages():
+    """Automatically install required packages if not found"""
+    required_packages = {
+        'deep_translator': 'deep-translator',
+        'tqdm': 'tqdm'
+    }
+    
+    missing_packages = []
+    
+    # Check which packages are missing
+    for import_name, package_name in required_packages.items():
+        try:
+            __import__(import_name)
+            print(f"✓ {package_name} already installed")
+        except ImportError:
+            print(f"⚠ {package_name} not found, will install...")
+            missing_packages.append(package_name)
+    
+    # Install missing packages
+    if missing_packages:
+        print(f"\nInstalling {len(missing_packages)} package(s)...")
+        try:
+            for package in missing_packages:
+                subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+            print("✓ All packages installed successfully\n")
+        except subprocess.CalledProcessError as e:
+            print(f"✗ Error installing packages: {e}")
+            print("Please manually run: pip install deep-translator tqdm")
+            sys.exit(1)
+
+# Install dependencies before importing
+install_missing_packages()
+
+# Now import after dependencies are guaranteed to exist
+from deep_translator import GoogleTranslator
+from tqdm import tqdm
 
 
 def normalize_target_language(lang):
