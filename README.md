@@ -104,7 +104,7 @@ fi
 > **Important — Update the folder name**
 > Replace `YourAppName` in both occurrences with the actual name of your app's source folder (the folder that contains `Resources/`). If this path is wrong, Xcode will not find the script or the strings file and the build will fail.
 
-![Setting up Run Script in Build Phases](Readme Resources/Build Phases-Run Script.png)
+![Setting up Run Script in Build Phases](ReadmeResources/BuildPhases-RunScript.png)
 ---
 
 ### Step 3 — Disable User Script Sandboxing
@@ -116,7 +116,7 @@ By default, Xcode sandboxes run script phases, which blocks Python from accessin
 3. Search for **"User Script Sandboxing"**.
 4. Set the value to **No**.
 
-![Disable User Script Sandboxing](Readme Resources/Build Settings-User Script Sandboxing.png)
+![Disable User Script Sandboxing](ReadmeResources/BuildSettings-UserScriptSandboxing.png)
 
 ---
 
@@ -141,8 +141,8 @@ When you add a language directly inside the `.xcstrings` file editor in Xcode, t
 7. Build the project — the script will automatically translate all new entries.
 
 
-![Adding new Languages in the Info Section of the project](Readme Resources/Info-Add New Language.png)
-![Selecting the reference Language as English](Readme Resources/Choose Reference Language.png)
+![Adding new Languages in the Info Section of the project](ReadmeResources/Info-AddNewLanguage.png)
+![Selecting the reference Language as English](ReadmeResources/ChooseReferenceLanguage.png)
 ---
 
 ## Legacy `.strings` File Support
