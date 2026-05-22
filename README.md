@@ -162,13 +162,13 @@ If your project uses the older `.lproj/Localizable.strings` format instead of a 
 
 The script translates strings in parallel using a thread pool. By default, `MAX_THREADS = 20`.
 
-When a large number of strings need to be translated at once (roughly 300 or more), the Google Translate API may rate-limit requests and some translations may silently fail or return empty values.
+When a large number of strings need to be translated at once (roughly 1000 or more), the Google Translate API may rate-limit requests and some translations may silently fail or return empty values.
+I have tested more than 3000 strings getting translated at once without any issue. But it's mentioned just to be at a safe side
 
 **When to reduce the thread count:**
 
-- You are adding one or more new languages to an existing app with a large string catalog.
+- You are adding multiple new languages to the existing app with a large string catalog.
 - You are setting up a brand new project with many strings and multiple languages added at the same time.
-- You notice some translations come back empty or incorrect after a build.
 
 **How to reduce the thread count:**
 
@@ -179,10 +179,11 @@ Open `translator.py` and change the `MAX_THREADS` value near the top of the file
 MAX_THREADS = 20   # default — change to 10 or 5 for large batches
 ```
 
-Setting it to `10` or `5` slows down translation but ensures the API is not overwhelmed and all strings complete successfully.
+Setting it to `15` or `10` slows down translation but ensures the API is not overwhelmed and all strings complete successfully.
 
 Once the initial large batch is translated, you can set it back to `20` for faster incremental builds.
 
+![Reference for the speed of translation at MAX_THREADS=20](ReadmeResources/Output.png)
 ---
 
 ## Best Practices
