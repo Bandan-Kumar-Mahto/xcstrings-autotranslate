@@ -6,17 +6,24 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		ECC5083E2FBDAB70008A1EFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECC5083A2FBDAB70008A1EFA /* Assets.xcassets */; };
+		ECC5083F2FBDAB70008A1EFA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC5083B2FBDAB70008A1EFA /* ContentView.swift */; };
+		ECC508402FBDAB70008A1EFA /* StringTranslatorDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC5083C2FBDAB70008A1EFA /* StringTranslatorDemoApp.swift */; };
+		ECC508472FBDAD88008A1EFA /* translator.py in Resources */ = {isa = PBXBuildFile; fileRef = ECC508462FBDAD88008A1EFA /* translator.py */; };
+		ECC508492FBDAD99008A1EFA /* ReadMe.md in Resources */ = {isa = PBXBuildFile; fileRef = ECC508482FBDAD92008A1EFA /* ReadMe.md */; };
+		ECD6B4CA2FBF342C00C60F2B /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = ECD6B4C92FBF342C00C60F2B /* Localizable.xcstrings */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		ECC5082C2FBDAB45008A1EFA /* StringTranslatorDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StringTranslatorDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ECC5083A2FBDAB70008A1EFA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		ECC5083B2FBDAB70008A1EFA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		ECC5083C2FBDAB70008A1EFA /* StringTranslatorDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringTranslatorDemoApp.swift; sourceTree = "<group>"; };
+		ECC508462FBDAD88008A1EFA /* translator.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = translator.py; sourceTree = "<group>"; };
+		ECC508482FBDAD92008A1EFA /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
+		ECD6B4C92FBF342C00C60F2B /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		ECC5082E2FBDAB45008A1EFA /* StringTranslatorDemo */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = StringTranslatorDemo;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		ECC508292FBDAB45008A1EFA /* Frameworks */ = {
@@ -32,7 +39,7 @@
 		ECC508232FBDAB45008A1EFA = {
 			isa = PBXGroup;
 			children = (
-				ECC5082E2FBDAB45008A1EFA /* StringTranslatorDemo */,
+				ECC5083D2FBDAB70008A1EFA /* StringTranslatorDemo */,
 				ECC5082D2FBDAB45008A1EFA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -45,6 +52,27 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		ECC5083D2FBDAB70008A1EFA /* StringTranslatorDemo */ = {
+			isa = PBXGroup;
+			children = (
+				ECC508482FBDAD92008A1EFA /* ReadMe.md */,
+				ECC508412FBDAB73008A1EFA /* Resources */,
+				ECC5083B2FBDAB70008A1EFA /* ContentView.swift */,
+				ECC5083C2FBDAB70008A1EFA /* StringTranslatorDemoApp.swift */,
+			);
+			path = StringTranslatorDemo;
+			sourceTree = "<group>";
+		};
+		ECC508412FBDAB73008A1EFA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				ECD6B4C92FBF342C00C60F2B /* Localizable.xcstrings */,
+				ECC508462FBDAD88008A1EFA /* translator.py */,
+				ECC5083A2FBDAB70008A1EFA /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -55,13 +83,11 @@
 				ECC508282FBDAB45008A1EFA /* Sources */,
 				ECC508292FBDAB45008A1EFA /* Frameworks */,
 				ECC5082A2FBDAB45008A1EFA /* Resources */,
+				ECC5084A2FBDADD3008A1EFA /* Translate Strings */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				ECC5082E2FBDAB45008A1EFA /* StringTranslatorDemo */,
 			);
 			name = StringTranslatorDemo;
 			packageProductDependencies = (
@@ -90,7 +116,12 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
-				Base,
+				es,
+				hi,
+				fr,
+				"zh-HK",
+				"zh-Hans",
+				"zh-Hant",
 			);
 			mainGroup = ECC508232FBDAB45008A1EFA;
 			minimizedProjectReferenceProxies = 1;
@@ -109,16 +140,44 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ECC508472FBDAD88008A1EFA /* translator.py in Resources */,
+				ECC5083E2FBDAB70008A1EFA /* Assets.xcassets in Resources */,
+				ECD6B4CA2FBF342C00C60F2B /* Localizable.xcstrings in Resources */,
+				ECC508492FBDAD99008A1EFA /* ReadMe.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		ECC5084A2FBDADD3008A1EFA /* Translate Strings */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Translate Strings";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "#!/bin/sh\n\nSCRIPT_PATH=\"${SRCROOT}/StringTranslatorDemo/Resources/translator.py\"\nRESOURCE_DIR=\"${SRCROOT}/StringTranslatorDemo/Resources\"\n\nif [ ! -f \"$SCRIPT_PATH\" ]; then\n    echo \"ERROR: Python script not found: $SCRIPT_PATH\"\n    exit 1\nfi\n\n/usr/bin/env python3 \"$SCRIPT_PATH\" --resource-dir \"$RESOURCE_DIR\" --no-interactive\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		ECC508282FBDAB45008A1EFA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ECC5083F2FBDAB70008A1EFA /* ContentView.swift in Sources */,
+				ECC508402FBDAB70008A1EFA /* StringTranslatorDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -130,6 +189,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -193,6 +253,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -252,12 +313,14 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -283,12 +346,14 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

@@ -59,15 +59,92 @@ install_missing_packages()
 from deep_translator import GoogleTranslator
 from tqdm import tqdm
 
+# Build supported language lookup from deep_translator.
+# This allows fallback from region-style locale tags such as pt-BR, en-GB, zh-Hans, etc.
+_translator_probe = GoogleTranslator(source="en", target="en")
+_supported_language_map = _translator_probe.get_supported_languages(as_dict=True)
+SUPPORTED_LANGUAGE_NAME_MAP = {name.lower(): code for name, code in _supported_language_map.items()}
+SUPPORTED_LANGUAGE_CODE_MAP = {code.lower(): code for code in _supported_language_map.values()}
+SUPPORTED_LANGUAGE_CODES = set(SUPPORTED_LANGUAGE_CODE_MAP.keys())
+
+# Track languages and codes that should be skipped.
+skipped_languages = set()
+skip_reasons = {}
+
+
+def is_supported_translator_language(lang):
+    if not lang:
+        return False
+
+    normalized = lang.replace("_", "-").lower()
+    return normalized in SUPPORTED_LANGUAGE_CODES
+
 # ======================================================
 # CONFIG
 # ======================================================
 
 # Number of parallel translation threads
-MAX_THREADS = 5
+MAX_THREADS = 20
 
 # Add extra languages manually if needed
-EXTRA_LANGUAGES = []
+EXTRA_LANGUAGES = ["hi"]
+
+# Normalize locale keys so translator receives supported target codes.
+# Apple uses zh-Hans / zh-Hant, while deep_translator expects zh-CN / zh-TW.
+LOCALE_NORMALIZATION = {
+    "zh-hans": "zh-CN",
+    "zh-hant": "zh-TW",
+    "zh-hk": "zh-TW",
+    "zh-mo": "zh-TW",
+    "zh-sg": "zh-CN",
+    "zh_cn": "zh-CN",
+    "zh_tw": "zh-TW",
+}
+
+# Normalize legacy or alternate language tags that deep_translator uses different codes for.
+LANGUAGE_ALIAS_NORMALIZATION = {
+    "he": "iw",    # Hebrew
+    "nb": "no",    # Norwegian Bokmål maps to Norwegian
+    "in": "id",    # legacy Indonesian code
+    "ji": "yi",    # legacy Yiddish code
+    "zh": "zh-CN", # default Chinese fallback
+}
+
+
+def normalize_target_language(lang):
+    if not lang:
+        return lang
+
+    normalized = lang.replace("_", "-")
+    lower = normalized.lower()
+
+    if lower in SUPPORTED_LANGUAGE_CODE_MAP:
+        return SUPPORTED_LANGUAGE_CODE_MAP[lower]
+
+    if lower in SUPPORTED_LANGUAGE_NAME_MAP:
+        return SUPPORTED_LANGUAGE_NAME_MAP[lower]
+
+    if lower in LOCALE_NORMALIZATION:
+        return LOCALE_NORMALIZATION[lower]
+
+    if lower in LANGUAGE_ALIAS_NORMALIZATION:
+        return LANGUAGE_ALIAS_NORMALIZATION[lower]
+
+    if lower.startswith("zh-hans"):
+        return "zh-CN"
+
+    if lower.startswith("zh-hant"):
+        return "zh-TW"
+
+    # Fallback for region variants like pt-BR, en-GB, fr-CA, es-MX.
+    primary = lower.split("-")[0]
+    if primary in SUPPORTED_LANGUAGE_CODE_MAP:
+        return SUPPORTED_LANGUAGE_CODE_MAP[primary]
+
+    if primary in SUPPORTED_LANGUAGE_NAME_MAP:
+        return SUPPORTED_LANGUAGE_NAME_MAP[primary]
+
+    return normalized
 
 # ======================================================
 # PLACEHOLDER PROTECTION
@@ -75,7 +152,7 @@ EXTRA_LANGUAGES = []
 
 # Protect placeholders like:
 # %@  %d  %f  %@ etc.
-PLACEHOLDER_PATTERN = r"%[@dfsu]|%\d+\$[@dfsu]"
+PLACEHOLDER_PATTERN = r"%\d+\$\([^)]+\)(?:\.\d+)?[@dfsu]|%[@dfsu]|%\d+\$[@dfsu]"
 
 def protect_placeholders(text):
     placeholders = re.findall(PLACEHOLDER_PATTERN, text)
@@ -357,33 +434,26 @@ for key, item in strings.items():
             value = unit.get("value", "")
             state = unit.get("state", "")
 
-            # Check if this value is the same as the value in any other language
-            same_as_other_lang = False
-            if value and value.strip() != "":
-                for other_lang, other_lang_data in localizations.items():
-                    if other_lang == lang:
-                        continue
-                    other_unit = other_lang_data.get("stringUnit", {})
-                    other_value = other_unit.get("value", "")
-                    if other_value and value == other_value:
-                        same_as_other_lang = True
-                        break
-
             if (
                 value is None
                 or value.strip() == ""
-                or value == source_text
                 or state != "translated"
-                or same_as_other_lang
             ):
                 needs_translation = True
 
         if needs_translation:
 
+            translator_lang = normalize_target_language(lang)
+            if not is_supported_translator_language(translator_lang):
+                skipped_languages.add(lang)
+                skip_reasons[lang] = f"Unsupported target language '{translator_lang}'"
+                continue
+
             translation_tasks.append({
                 "key": key,
                 "source_text": source_text,
-                "lang": lang
+                "lang": lang,
+                "translator_lang": translator_lang
             })
 
 print(f"\nTasks prepared: {len(translation_tasks)}")
@@ -403,6 +473,9 @@ def translate_text(text, target_lang, retries=3, delay=1.0):
 
     if not text or text.strip() == "":
         return text
+
+    if not is_supported_translator_language(target_lang):
+        return None
 
     for attempt in range(retries):
         try:
@@ -425,6 +498,12 @@ def translate_text(text, target_lang, retries=3, delay=1.0):
             return translated
 
         except Exception as e:
+            message = str(e).lower()
+            if "no support for the provided language" in message or "language not supported" in message:
+                skipped_languages.add(target_lang)
+                skip_reasons[target_lang] = str(e)
+                return None
+
             if attempt < retries - 1:
                 sleep_time = delay * (2 ** attempt)
                 time.sleep(sleep_time)
@@ -432,7 +511,7 @@ def translate_text(text, target_lang, retries=3, delay=1.0):
                 print(f"\nTranslation failed [{target_lang}] after {retries} attempts.")
                 print(f"Text: {text}")
                 print(f"Error: {e}")
-                return text
+                return None
 
 # ======================================================
 # PROCESS TASK
@@ -442,14 +521,15 @@ def process_task(task):
 
     translated = translate_text(
         task["source_text"],
-        task["lang"]
+        task["translator_lang"]
     )
 
     return {
         "key": task["key"],
         "lang": task["lang"],
         "translated": translated,
-        "source_text": task["source_text"]
+        "source_text": task["source_text"],
+        "skipped": translated is None
     }
 
 # ======================================================
@@ -490,10 +570,15 @@ print("\nApplying translations...")
 
 for result in results:
 
+    if result.get("skipped"):
+        continue
+
     key = result["key"]
     lang = result["lang"]
     translated = result["translated"]
-    src_text = result["source_text"]
+
+    if translated is None:
+        continue
 
     localizations = (
         strings[key]
@@ -503,7 +588,7 @@ for result in results:
     localizations[lang] = {
         "stringUnit": {
             "state": "translated",
-            "value": translated if translated else src_text
+            "value": translated
         }
     }
 
@@ -529,6 +614,12 @@ try:
         )
 
     print(f"✓ Saved to: {OUTPUT_FILE}")
+
+    if skipped_languages:
+        print("\nSkipped languages due to unsupported locale or failed translation:")
+        for language in sorted(skipped_languages):
+            reason = skip_reasons.get(language, "Unsupported or failed translation")
+            print(f"- {language}: {reason}")
 
 except Exception as e:
     print(f"\nFailed to save translated file: {e}")
