@@ -11,17 +11,16 @@
 		ECC5083F2FBDAB70008A1EFA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC5083B2FBDAB70008A1EFA /* ContentView.swift */; };
 		ECC508402FBDAB70008A1EFA /* StringTranslatorDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC5083C2FBDAB70008A1EFA /* StringTranslatorDemoApp.swift */; };
 		ECC508472FBDAD88008A1EFA /* translator.py in Resources */ = {isa = PBXBuildFile; fileRef = ECC508462FBDAD88008A1EFA /* translator.py */; };
-		ECC508492FBDAD99008A1EFA /* ReadMe.md in Resources */ = {isa = PBXBuildFile; fileRef = ECC508482FBDAD92008A1EFA /* ReadMe.md */; };
 		ECD6B4CA2FBF342C00C60F2B /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = ECD6B4C92FBF342C00C60F2B /* Localizable.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC9DDF8F2FC026F50037993D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		ECC5082C2FBDAB45008A1EFA /* StringTranslatorDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StringTranslatorDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECC5083A2FBDAB70008A1EFA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECC5083B2FBDAB70008A1EFA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ECC5083C2FBDAB70008A1EFA /* StringTranslatorDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringTranslatorDemoApp.swift; sourceTree = "<group>"; };
 		ECC508462FBDAD88008A1EFA /* translator.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = translator.py; sourceTree = "<group>"; };
-		ECC508482FBDAD92008A1EFA /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 		ECD6B4C92FBF342C00C60F2B /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -39,6 +38,7 @@
 		ECC508232FBDAB45008A1EFA = {
 			isa = PBXGroup;
 			children = (
+				EC9DDF8F2FC026F50037993D /* README.md */,
 				ECC5083D2FBDAB70008A1EFA /* StringTranslatorDemo */,
 				ECC5082D2FBDAB45008A1EFA /* Products */,
 			);
@@ -55,7 +55,6 @@
 		ECC5083D2FBDAB70008A1EFA /* StringTranslatorDemo */ = {
 			isa = PBXGroup;
 			children = (
-				ECC508482FBDAD92008A1EFA /* ReadMe.md */,
 				ECC508412FBDAB73008A1EFA /* Resources */,
 				ECC5083B2FBDAB70008A1EFA /* ContentView.swift */,
 				ECC5083C2FBDAB70008A1EFA /* StringTranslatorDemoApp.swift */,
@@ -143,7 +142,6 @@
 				ECC508472FBDAD88008A1EFA /* translator.py in Resources */,
 				ECC5083E2FBDAB70008A1EFA /* Assets.xcassets in Resources */,
 				ECD6B4CA2FBF342C00C60F2B /* Localizable.xcstrings in Resources */,
-				ECC508492FBDAD99008A1EFA /* ReadMe.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

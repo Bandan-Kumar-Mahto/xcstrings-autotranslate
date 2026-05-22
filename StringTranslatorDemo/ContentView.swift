@@ -8,25 +8,15 @@
 import SwiftUI
 
 
-
-struct data {
-    var name: String
-    var surname: String
-    var age: String
-    var jobrole: String
-}
-
 // MARK: Content View
 struct ContentView: View {
-    let varriable: [data] = [
-        .init(name: "Moksh", surname: "Suthar", age: "", jobrole: "Developer")
-    ]
+
     var body: some View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text(varriable.first?.name.description ?? "")
+            Text(.alert)
             myButton(text: "Some String")
         }
         .padding()

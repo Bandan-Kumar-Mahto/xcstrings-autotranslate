@@ -1,4 +1,11 @@
-""Welcome to the app!" = "Welcome to the app!";
+# Strings Reference
+
+These are sample localization string formats kept here for future reference.
+
+## Basic Key-Value Format
+
+```
+"Welcome to the app!" = "Welcome to the app!";
 "Log In" = "Log In";
 "Create Account" = "Create Account";
 "Forgot Password?" = "Forgot Password?";
@@ -18,10 +25,11 @@
 "Hello, %@!" = "Hello, %@!";
 "items_count" = "%d items available";
 "Last updated on %@" = "Last updated on %@";
+```
 
+## Advanced Format Examples (Named Positional Arguments)
 
-
-
+```
 /* Simple localized strings */
 "welcome_message" = "Welcome to the app!";
 "login_button_title" = "Log In";
@@ -80,3 +88,4 @@
 
 /* Complex sentence */
 "order_confirmation" = "Order #%1$(orderId)lld for %2$(customerName)@ has been confirmed.";
+```
