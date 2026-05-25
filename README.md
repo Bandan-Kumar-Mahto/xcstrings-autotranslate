@@ -16,6 +16,7 @@ Automatically translate your app's `.xcstrings` (String Catalog) files using Goo
 - [Adding New Languages](#adding-new-languages)
 - [Legacy .strings File Support](#legacy-strings-file-support)
 - [Performance Tuning — Thread Pool](#performance-tuning--thread-pool)
+- [Using Localized Strings in Code](#using-localized-strings-in-code)
 - [Best Practices](#best-practices)
 - [Adding Images to This README](#adding-images-to-this-readme)
 
@@ -184,6 +185,120 @@ Setting it to `15` or `10` slows down translation but ensures the API is not ove
 Once the initial large batch is translated, you can set it back to `20` for faster incremental builds.
 
 ![Reference for the speed of translation at MAX_THREADS=20](ReadmeResources/Output.png)
+---
+
+## Using Localized Strings in Code
+
+Once your strings are in `.xcstrings` and auto-translated by the build script, you need to reference them in Swift. The approaches below differ in syntax and — critically — whether Xcode **automatically extracts** new keys into `.xcstrings` when you build.
+
+### How extraction works
+
+Xcode scans your source files at build time and adds any new string keys it finds into `Localizable.xcstrings`. It only recognises specific APIs. If you use an unrecognised pattern, the key is not added automatically — you must add it manually, or use a recognised API elsewhere in your project.
+
+### Quick reference
+
+| How you write it | ✅ / ❌ Auto-extracted | Notes |
+|---|---|---|
+| `Text("key")` | ✅ Yes | SwiftUI only |
+| `String(localized: "key")` | ✅ Yes | Anywhere — modern API (iOS 16+) |
+| `NSLocalizedString("key", comment: "")` | ✅ Yes | Anywhere — classic API |
+| `L("key")` | ✅ Yes (Xcode 15+) | Custom wrapper — `LocalizedStringResource` param |
+| `static let x: LocalizedStringResource = "key"` | ✅ Yes | From the definition site |
+| `"key".localized` | ❌ No | Xcode can't resolve `self` statically |
+| `"key".dynamicLocalized` | ❌ No | Plain `String` param, invisible to extractor |
+
+---
+
+### Approach 1 — SwiftUI `Text` (simplest, recommended for SwiftUI)
+
+`Text` takes `LocalizedStringKey`. Xcode extracts string literals automatically.
+
+```swift
+Text("Cancel")       // ✅ extracted and localised
+Text("Save Changes") // ✅ extracted and localised
+```
+
+Use `Text(verbatim:)` when you want a string displayed exactly as written — it is **not** localised and **not** extracted.
+
+```swift
+Text(verbatim: "Version 1.0.0")  // ❌ not extracted, shown as-is
+```
+
+---
+
+### Approach 2 — `String(localized:)` (recommended for non-SwiftUI)
+
+The modern Foundation API, available anywhere a plain `String` is needed.
+
+```swift
+let title  = String(localized: "Cancel")        // ✅ extracted
+label.text = String(localized: "Save Changes")  // ✅ extracted
+```
+
+---
+
+### Approach 3 — `NSLocalizedString` (classic, UIKit)
+
+The traditional API supported since iOS 2. Always extracted by Xcode.
+
+```swift
+label.text = NSLocalizedString("Cancel", comment: "Dismiss alert") // ✅ extracted
+```
+
+> Prefer `String(localized:)` for new code — it is more concise and integrates better with `.xcstrings`.
+
+---
+
+### Approach 4 — `L()` helper function
+
+A thin wrapper around `String(localized:)`. Because its parameter type is `LocalizedStringResource`, Xcode 15+ extracts string literals you pass to it. Also supports interpolation.
+
+```swift
+label.text = L("Cancel")          // ✅ extracted
+label.text = L("Hello \(name)")   // ✅ extracted (interpolation supported)
+```
+
+---
+
+### Approach 5 — `AppStrings` enum (type-safe, no typos)
+
+All keys are defined as `static let` properties of type `LocalizedStringResource`. The **definition** is where extraction happens. Usage via property gives you autocomplete and compile-time checking.
+
+```swift
+enum AppStrings {
+    static let cancel: LocalizedStringResource = "Cancel"  // ✅ key extracted here
+    static let back: LocalizedStringResource   = "Back"    // ✅ key extracted here
+}
+
+// SwiftUI
+Text(AppStrings.cancel)                        // uses pre-extracted key
+
+// UIKit
+label.text = String(localized: AppStrings.cancel)
+```
+
+---
+
+### Approach 6 — `LanguageManager` (dynamic in-app language switching)
+
+Lets users switch language inside the app at runtime without going to iPhone Settings. It works with `.xcstrings` — Xcode compiles `.xcstrings` into `en.lproj/Localizable.strings`, `fr.lproj/Localizable.strings`, etc. inside the app bundle, so the manual bundle lookup succeeds.
+
+```swift
+LanguageManager.shared.currentLanguage = "fr"  // switch to French at runtime
+label.text = "Cancel".dynamicLocalized          // ❌ key not extracted — must exist already
+```
+
+Two important caveats:
+
+1. **Keys are not extracted** — `.dynamicLocalized` passes a plain `String`, which Xcode's extractor cannot see. Every key used with this approach must already exist in `.xcstrings` (added manually or via a recognised API used elsewhere).
+2. **SwiftUI `Text()` ignores `LanguageManager`** — it always reads the system language. You must call `.dynamicLocalized` or `LanguageManager.shared.localizedString(for:)` explicitly to get the runtime-switched value.
+
+---
+
+### What "not extracted" means in practice
+
+If a key is **not** extracted, it simply means Xcode won't add it to `.xcstrings` automatically. The runtime lookup still works as long as the key is already in the file. A common pattern is to define all keys via `AppStrings` or `String(localized:)` (so they get extracted and translated by the build script), then reference them via `.localized` or `.dynamicLocalized` where the simpler syntax is convenient.
+
 ---
 
 ## Best Practices

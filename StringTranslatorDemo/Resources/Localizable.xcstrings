@@ -111,12 +111,6 @@
             "value": "Dann"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " then"
-          }
-        },
         "es": {
           "stringUnit": {
             "state": "translated",
@@ -1164,85 +1158,85 @@
         "af": {
           "stringUnit": {
             "state": "translated",
-            "value": "en"
+            "value": "%1$(var1)@ en %2$(var2)@"
           }
         },
         "bn": {
           "stringUnit": {
             "state": "translated",
-            "value": "এবং"
+            "value": "%1$(var1)@ এবং %2$(var2)@"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Und"
+            "value": "%1$(var1)@ und %2$(var2)@"
           }
         },
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "and"
+            "value": "%1$(var1)@ and %2$(var2)@"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "y"
+            "value": "%1$(var1)@ y %2$(var2)@"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "et"
+            "value": "%1$(var1)@ et %2$(var2)@"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": "और"
+            "value": "%1$(var1)@ और %2$(var2)@"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "i"
+            "value": "%1$(var1)@ i %2$(var2)@"
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "Dan"
+            "value": "%1$(var1)@ dan %2$(var2)@"
           }
         },
         "mr": {
           "stringUnit": {
             "state": "translated",
-            "value": "आणि"
+            "value": "%1$(var1)@ आणि %2$(var2)@"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "e"
+            "value": "%1$(var1)@ e %2$(var2)@"
           }
         },
         "ta": {
           "stringUnit": {
             "state": "translated",
-            "value": "மற்றும்"
+            "value": "%1$(var1)@ மற்றும் %2$(var2)@"
           }
         },
         "te": {
           "stringUnit": {
             "state": "translated",
-            "value": "మరియు"
+            "value": "%1$(var1)@ మరియు %2$(var2)@"
           }
         },
         "zu": {
           "stringUnit": {
             "state": "translated",
-            "value": "futhi"
+            "value": "%1$(var1)@ kanye %2$(var2)@"
           }
         }
       }
@@ -3108,6 +3102,89 @@
           "stringUnit": {
             "state": "translated",
             "value": "Thwebula noma Layisha Isithombe"
+          }
+        }
+      }
+    },
+    "Caveat: SwiftUI Text() still uses the system language. Use .dynamicLocalized or LanguageManager explicitly.": {
+      "extractionState": "manual",
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Advertência: SwiftUI Text() ainda usa a linguagem do sistema. Use .dynamicLocalized ou LanguageManager explicitamente."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Advertencia: SwiftUI Text() todavía usa el idioma del sistema. Utilice .dynamicLocalized o LanguageManager explícitamente."
+          }
+        },
+        "zu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I-Caveat: Umbhalo we-SwiftUI() usasebenzisa ulimi lohlelo. Sebenzisa i-.dynamicLocalized noma LanguageManager ngokusobala."
+          }
+        },
+        "mr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "चेतावणी: SwiftUI Text() अजूनही सिस्टम भाषा वापरते. .dynamicLocalized किंवा LanguageManager स्पष्टपणे वापरा."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "चेतावनी: स्विफ्टयूआई टेक्स्ट() अभी भी सिस्टम भाषा का उपयोग करता है। स्पष्ट रूप से .dynamicLocalized या लेंग्वेजमैनेजर का उपयोग करें।"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সতর্কতা: SwiftUI Text() এখনও সিস্টেম ভাষা ব্যবহার করে। সুস্পষ্টভাবে .dynamicLocalized বা LanguageManager ব্যবহার করুন।"
+          }
+        },
+        "te": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "హెచ్చరిక: SwiftUI Text() ఇప్పటికీ సిస్టమ్ భాషను ఉపయోగిస్తోంది. .dynamicLocalized లేదా LanguageManagerని స్పష్టంగా ఉపయోగించండి."
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "எச்சரிக்கை: SwiftUI Text() இன்னும் கணினி மொழியைப் பயன்படுத்துகிறது. .dynamicLocalized அல்லது LanguageManager ஐ வெளிப்படையாகப் பயன்படுத்தவும்."
+          }
+        },
+        "af": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Waarskuwing: SwiftUI Text() gebruik steeds die stelseltaal. Gebruik .dynamicLocalized of LanguageManager eksplisiet."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Peringatan: SwiftUI Text() masih menggunakan bahasa sistem. Gunakan .dynamicLocalized atau LanguageManager secara eksplisit."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attention : SwiftUI Text() utilise toujours le langage système. Utilisez explicitement .dynamicLocalized ou LanguageManager."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Upozorenje: SwiftUI Text() još uvijek koristi jezik sustava. Izričito koristite .dynamicLocalized ili LanguageManager."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vorsichtsmaßnahme: SwiftUI Text() verwendet weiterhin die Systemsprache. Verwenden Sie explizit .dynamicLocalized oder LanguageManager."
           }
         }
       }
@@ -6850,6 +6927,89 @@
         }
       }
     },
+    "Hello %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "af": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hallo %@"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "হ্যালো %@"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hallo %@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hola %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bonjour %@"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "नमस्ते %@"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pozdrav %@"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Halo %@"
+          }
+        },
+        "mr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "नमस्कार %@"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Olá %@"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "வணக்கம் %@"
+          }
+        },
+        "te": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "హలో %@"
+          }
+        },
+        "zu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sawubona %@"
+          }
+        }
+      }
+    },
     "Hello, world!": {
       "comment": "A greeting message displayed in the app's main view.",
       "extractionState": "manual",
@@ -7558,96 +7718,96 @@
         }
       }
     },
-    "Key 1": {
+    "Interpolation example": {
       "extractionState": "manual",
       "localizations": {
         "af": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sleutel 1"
+            "value": "Interpolasie voorbeeld"
           }
         },
         "bn": {
           "stringUnit": {
             "state": "translated",
-            "value": "কী 1"
+            "value": "ইন্টারপোলেশন উদাহরণ"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Schlüssel 1"
+            "value": "Interpolationsbeispiel"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Clave 1"
+            "value": "Ejemplo de interpolación"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Clé 1"
+            "value": "Exemple d'interpolation"
           }
         },
         "hi": {
           "stringUnit": {
             "state": "translated",
-            "value": "कुंजी 1"
+            "value": "अंतर्वेशन उदाहरण"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ključ 1"
+            "value": "Primjer interpolacije"
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "Kunci 1"
+            "value": "Contoh interpolasi"
           }
         },
         "mr": {
           "stringUnit": {
             "state": "translated",
-            "value": "की १"
+            "value": "इंटरपोलेशन उदाहरण"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Chave 1"
+            "value": "Exemplo de interpolação"
           }
         },
         "ta": {
           "stringUnit": {
             "state": "translated",
-            "value": "விசை 1"
+            "value": "இடைக்கணிப்பு உதாரணம்"
           }
         },
         "te": {
           "stringUnit": {
             "state": "translated",
-            "value": "కీ 1"
+            "value": "ఇంటర్పోలేషన్ ఉదాహరణ"
           }
         },
         "zu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ukhiye 1"
+            "value": "Isibonelo se-interpolation"
           }
         }
       }
     },
-    "language": {
+    "Language": {
       "extractionState": "manual",
       "localizations": {
         "af": {
           "stringUnit": {
             "state": "translated",
-            "value": "taal"
+            "value": "Taal"
           }
         },
         "bn": {
@@ -7662,22 +7822,16 @@
             "value": "Sprache"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "language"
-          }
-        },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "idioma"
+            "value": "Idioma"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "langue"
+            "value": "Langue"
           }
         },
         "hi": {
@@ -7689,13 +7843,13 @@
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "jezik"
+            "value": "Jezik"
           }
         },
         "id": {
           "stringUnit": {
             "state": "translated",
-            "value": "bahasa"
+            "value": "Bahasa"
           }
         },
         "mr": {
@@ -7707,7 +7861,7 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "linguagem"
+            "value": "Linguagem"
           }
         },
         "ta": {
@@ -7725,7 +7879,7 @@
         "zu": {
           "stringUnit": {
             "state": "translated",
-            "value": "ulimi"
+            "value": "Ulimi"
           }
         }
       }
@@ -8527,6 +8681,89 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ukuskena kombhalo obukhoma"
+          }
+        }
+      }
+    },
+    "Localization Demo": {
+      "extractionState": "manual",
+      "localizations": {
+        "af": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lokalisering Demo"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "স্থানীয়করণ ডেমো"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lokalisierungsdemo"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demostración de localización"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Démo de localisation"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "स्थानीयकरण डेमो"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demonstracija lokalizacije"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demo Lokalisasi"
+          }
+        },
+        "mr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "स्थानिकीकरण डेमो"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demonstração de localização"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "உள்ளூர்மயமாக்கல் டெமோ"
+          }
+        },
+        "te": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "స్థానికీకరణ డెమో"
+          }
+        },
+        "zu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Idemo Yendawo"
           }
         }
       }
@@ -10752,6 +10989,89 @@
           "stringUnit": {
             "state": "translated",
             "value": "ayisekeli izwi libe umbhalo"
+          }
+        }
+      }
+    },
+    "Note: requires classic .strings files per language (en.lproj, fr.lproj …), not .xcstrings.": {
+      "extractionState": "manual",
+      "localizations": {
+        "af": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Let wel: vereis klassieke .strings-lêers per taal (en.lproj, fr.lproj …), nie .xcstrings nie."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "দ্রষ্টব্য: ভাষা প্রতি ক্লাসিক .স্ট্রিং ফাইল প্রয়োজন (en.lproj, fr.lproj …), .xcstrings নয়।"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hinweis: Erfordert klassische .strings-Dateien pro Sprache (en.lproj, fr.lproj …), keine .xcstrings."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nota: requiere archivos .strings clásicos por idioma (en.lproj, fr.lproj…), no .xcstrings."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remarque : nécessite des fichiers .strings classiques par langue (en.lproj, fr.lproj…), et non des .xcstrings."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ध्यान दें: प्रति भाषा क्लासिक .strings फ़ाइलों की आवश्यकता है (en.lproj, fr.lproj…), न कि .xcstrings।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Napomena: zahtijeva klasične .strings datoteke po jeziku (en.lproj, fr.lproj …), a ne .xcstrings."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Catatan: memerlukan file .strings klasik per bahasa (en.lproj, fr.lproj…), bukan .xcstrings."
+          }
+        },
+        "mr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "टीप: प्रति भाषेसाठी क्लासिक .स्ट्रिंग फाइल्स आवश्यक आहेत (en.lproj, fr.lproj …), नाही .xcstrings."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nota: requer arquivos .strings clássicos por idioma (en.lproj, fr.lproj…), não .xcstrings."
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "குறிப்பு: ஒரு மொழிக்கு கிளாசிக் .ஸ்ட்ரிங்ஸ் கோப்புகள் தேவை (en.lproj, fr.lproj ...), .xcstrings அல்ல."
+          }
+        },
+        "te": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "గమనిక: ప్రతి భాషకు క్లాసిక్ .స్ట్రింగ్స్ ఫైల్‌లు అవసరం (en.lproj, fr.lproj …), .xcstrings కాదు."
+          }
+        },
+        "zu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Qaphela: idinga amafayela .strings wakudala ngolimi ngalunye (en.lproj, fr.lproj …), hhayi .xcstrings."
           }
         }
       }
@@ -16096,6 +16416,17 @@
         }
       }
     },
+    "string": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@"
+          }
+        }
+      }
+    },
     "Subscribe monthly": {
       "extractionState": "manual",
       "localizations": {
@@ -20186,6 +20517,89 @@
         }
       }
     },
+    "UIKit usage": {
+      "extractionState": "manual",
+      "localizations": {
+        "af": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "UIKit gebruik"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "UIKit ব্যবহার"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "UIKit-Nutzung"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uso de UIKit"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utilisation de l'UIKit"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "यूआईकिट का उपयोग"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Upotreba UIKita"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "penggunaan UIKit"
+          }
+        },
+        "mr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "UIKit वापर"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uso do UIKit"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "UIKit பயன்பாடு"
+          }
+        },
+        "te": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "UIKit వినియోగం"
+          }
+        },
+        "zu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ukusetshenziswa kwe-UIKit"
+          }
+        }
+      }
+    },
     "Understand Every Word": {
       "extractionState": "manual",
       "localizations": {
@@ -22496,6 +22910,89 @@
           "stringUnit": {
             "state": "translated",
             "value": "Uhlelo lwamasonto onke"
+          }
+        }
+      }
+    },
+    "Works with .xcstrings — Xcode compiles it into en.lproj/Localizable.strings, fr.lproj/… at build time, so the bundle lookup succeeds.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Funciona con .xcstrings: Xcode lo compila en en.lproj/Localizable.strings, fr.lproj/… en el momento de la compilación, para que la búsqueda del paquete se realice correctamente."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ".xcstrings-এর সাথে কাজ করে — Xcode এটিকে en.lproj/Localizable.strings, fr.lproj/… বিল্ড টাইমে কম্পাইল করে, তাই বান্ডেল লুকআপ সফল হয়।"
+          }
+        },
+        "af": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Werk met .xcstrings — Xcode stel dit saam in en.lproj/Localizable.strings, fr.lproj/... tydens boutyd, sodat die bondelsoektog slaag."
+          }
+        },
+        "mr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ".xcstrings सह कार्य करते — Xcode ते en.lproj/Localizable.strings, fr.lproj/... मध्ये संकलित करते, त्यामुळे बंडल लुकअप यशस्वी होतो."
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bekerja dengan .xcstrings — Xcode mengkompilasinya menjadi en.lproj/Localizable.strings, fr.lproj/… pada waktu pembuatan, sehingga pencarian bundel berhasil."
+          }
+        },
+        "te": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ".xcstringsతో పని చేస్తుంది — Xcode బిల్డ్ సమయంలో en.lproj/Localizable.strings, fr.lproj/... లోకి కంపైల్ చేస్తుంది, కాబట్టి బండిల్ లుక్అప్ విజయవంతమవుతుంది."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fonctionne avec .xcstrings — Xcode le compile dans en.lproj/Localizing.strings, fr.lproj/… au moment de la construction, afin que la recherche du bundle réussisse."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Radi s .xcstrings — Xcode ga kompajlira u en.lproj/Localizable.strings, fr.lproj/… u vrijeme izgradnje, tako da pretraživanje paketa uspijeva."
+          }
+        },
+        "zu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Isebenza nge-.xcstrings — I-Xcode iyihlanganisa ibe yi-en.lproj/Localizable.strings, fr.lproj/… ngesikhathi sokwakha, ukuze ukubhekwa kwenqwaba kuphumelele."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Funciona com .xcstrings - o Xcode o compila em en.lproj/Localizable.strings, fr.lproj/… no momento da compilação, para que a pesquisa do pacote seja bem-sucedida."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Funktioniert mit .xcstrings – Xcode kompiliert es zur Erstellungszeit in en.lproj/Localizable.strings, fr.lproj/…, sodass die Bundle-Suche erfolgreich ist."
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ".xcstrings உடன் வேலை செய்கிறது - Xcode அதை en.lproj/Localizable.strings, fr.lproj/... என தொகுக்கிறது."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ".xcstrings के साथ काम करता है - Xcode बिल्ड समय पर इसे en.lproj/Localizable.strings, fr.lproj/… में संकलित करता है, इसलिए बंडल लुकअप सफल होता है।"
           }
         }
       }

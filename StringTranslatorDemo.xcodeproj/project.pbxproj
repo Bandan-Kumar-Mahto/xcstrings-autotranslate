@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ECB14D0F2FC45CA4005023DD /* Strings+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB14D0E2FC45CA4005023DD /* Strings+Extensions.swift */; };
 		ECC5083E2FBDAB70008A1EFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECC5083A2FBDAB70008A1EFA /* Assets.xcassets */; };
 		ECC5083F2FBDAB70008A1EFA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC5083B2FBDAB70008A1EFA /* ContentView.swift */; };
 		ECC508402FBDAB70008A1EFA /* StringTranslatorDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC5083C2FBDAB70008A1EFA /* StringTranslatorDemoApp.swift */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		EC9DDF8F2FC026F50037993D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		ECB14D0E2FC45CA4005023DD /* Strings+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Strings+Extensions.swift"; sourceTree = "<group>"; };
 		ECC5082C2FBDAB45008A1EFA /* StringTranslatorDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StringTranslatorDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECC5083A2FBDAB70008A1EFA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECC5083B2FBDAB70008A1EFA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		ECB14D0D2FC45C6F005023DD /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				ECB14D0E2FC45CA4005023DD /* Strings+Extensions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		ECC508232FBDAB45008A1EFA = {
 			isa = PBXGroup;
 			children = (
@@ -55,6 +65,7 @@
 		ECC5083D2FBDAB70008A1EFA /* StringTranslatorDemo */ = {
 			isa = PBXGroup;
 			children = (
+				ECB14D0D2FC45C6F005023DD /* Extensions */,
 				ECC508412FBDAB73008A1EFA /* Resources */,
 				ECC5083B2FBDAB70008A1EFA /* ContentView.swift */,
 				ECC5083C2FBDAB70008A1EFA /* StringTranslatorDemoApp.swift */,
@@ -181,6 +192,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ECB14D0F2FC45CA4005023DD /* Strings+Extensions.swift in Sources */,
 				ECC5083F2FBDAB70008A1EFA /* ContentView.swift in Sources */,
 				ECC508402FBDAB70008A1EFA /* StringTranslatorDemoApp.swift in Sources */,
 			);
