@@ -46,6 +46,12 @@
             "value": "भाषा डाउनलोड की गई"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "jezik preuzet"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -127,6 +133,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "तब"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "zatim"
           }
         },
         "id": {
@@ -212,6 +224,12 @@
             "value": ", लेकिन आपकी स्रोत भाषा सेट है"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ", ali je vaš izvorni jezik postavljen na"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -293,6 +311,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "\"आपकी अंतिम यात्रा आवश्यक - वास्तविक समय अनुवाद, कहीं भी\" - एआई अनुवाद"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“Vaš ultimativni ključ za putovanje — prijevod u stvarnom vremenu, bilo gdje” - AI Translate"
           }
         },
         "id": {
@@ -378,6 +402,12 @@
             "value": "$4.99/सप्ताह"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "4,99 USD/tjedan"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -459,6 +489,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "$9.99/माह"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "9,99 USD mjesečno"
           }
         },
         "id": {
@@ -544,6 +580,12 @@
             "value": "3 दिन का निःशुल्क परीक्षण"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 dana besplatne probe"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -625,6 +667,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "200+ भाषाओं तक पहुंच"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pristup do 200+ jezika"
           }
         },
         "id": {
@@ -710,6 +758,12 @@
             "value": "बुकमार्क्स में जोड़ें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dodaj u oznake"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -791,6 +845,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "एआई कैमरा"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI kamera"
           }
         },
         "id": {
@@ -876,6 +936,12 @@
             "value": "एआई अनुवाद"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI Prevoditelj"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -957,6 +1023,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "चेतावनी"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "uzbuna"
           }
         },
         "id": {
@@ -1042,6 +1114,12 @@
             "value": "पहले से ही 2 पेज चयनित हैं"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Već odabrane 2 stranice"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -1123,6 +1201,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "और"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "i"
           }
         },
         "id": {
@@ -1208,6 +1292,12 @@
             "value": "एआर"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AR"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -1289,6 +1379,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "एआर ऑब्जेक्ट अनुवाद"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prijevod AR objekta"
           }
         },
         "id": {
@@ -1374,6 +1470,12 @@
             "value": "क्या आप वाकई इस बुकमार्क को हटाना चाहते हैं? आपका इतिहास अप्रभावित रहेगा"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jeste li sigurni da želite izbrisati ovu oznaku? Vaša će povijest ostati nepromijenjena"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -1455,6 +1557,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ऑटो"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto"
           }
         },
         "id": {
@@ -1540,6 +1648,12 @@
             "value": "पीछे"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nazad"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -1617,6 +1731,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "बंदन"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bandan"
           }
         },
         "id": {
@@ -1702,6 +1822,12 @@
             "value": "मासिक बिल भेजा गया"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Naplaćuje se mjesečno"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -1783,6 +1909,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "साप्ताहिक बिल"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Naplaćuje se tjedno"
           }
         },
         "id": {
@@ -1868,6 +2000,12 @@
             "value": "वार्षिक बिल भेजा गया"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Naplaćuje se godišnje"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -1949,6 +2087,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "बुकमार्क"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Knjižne oznake"
           }
         },
         "id": {
@@ -2034,6 +2178,12 @@
             "value": "वास्तविक समय की बातचीत में भाषा संबंधी बाधाओं को तोड़ें। ऑफ़लाइन रहते हुए भी जुड़े रहें."
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Srušite jezične barijere u razgovorima u stvarnom vremenu. Ostanite povezani, čak i izvan mreže."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -2115,6 +2265,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "हर बातचीत में भाषा संबंधी बाधाओं को तोड़ें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Razbijte jezične barijere u\\nsvakom razgovoru"
           }
         },
         "id": {
@@ -2200,6 +2356,12 @@
             "value": "कैम अनुवाद"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cam prijevod"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -2281,6 +2443,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "कैमरा"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fotoaparat"
           }
         },
         "id": {
@@ -2366,6 +2534,12 @@
             "value": "कैमरा एक्सेस अस्वीकृत"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pristup kameri odbijen"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -2447,6 +2621,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "कैमरे का उपयोग प्रतिबंधित है और इसे बदला नहीं जा सकता"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pristup kameri je ograničen i ne može se promijeniti"
           }
         },
         "id": {
@@ -2532,6 +2712,12 @@
             "value": "कैमरा पहुंच प्रतिबंधित"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pristup kameri ograničen"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -2613,6 +2799,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "रद्द करना"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otkazati"
           }
         },
         "id": {
@@ -2698,6 +2890,12 @@
             "value": "फ़ाइल तक नहीं पहुंच सकता"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nije moguće pristupiti datoteci"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -2779,6 +2977,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ऑटो भाषा स्वैप नहीं कर सकता"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nije moguće zamijeniti automatski jezik"
           }
         },
         "id": {
@@ -2864,6 +3068,12 @@
             "value": "छवि कैप्चर करें या अपलोड करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snimite ili prenesite sliku"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -2945,6 +3155,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "भाषा बदलें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Promjena jezika"
           }
         },
         "id": {
@@ -3030,6 +3246,12 @@
             "value": "सभी बुकमार्क साफ़ करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Obrišite sve oznake"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -3111,6 +3333,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "बुकमार्क साफ़ करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Obriši oznaku"
           }
         },
         "id": {
@@ -3196,6 +3424,12 @@
             "value": "जारी रखना"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nastaviti"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -3277,6 +3511,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "बातचीत"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Razgovor"
           }
         },
         "id": {
@@ -3362,6 +3602,12 @@
             "value": "बात चिट"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Razgovori"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -3443,6 +3689,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "प्रतिलिपि"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kopirati"
           }
         },
         "id": {
@@ -3528,6 +3780,12 @@
             "value": "कस्टम थीम्स"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prilagođene teme"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -3609,6 +3867,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "मिटाना"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Izbrisati"
           }
         },
         "id": {
@@ -3694,6 +3958,12 @@
             "value": "सभी हटा दो"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Izbriši sve"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -3775,6 +4045,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "सभी वार्तालाप हटाएँ"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Izbriši sve razgovore"
           }
         },
         "id": {
@@ -3860,6 +4136,12 @@
             "value": "सारा इतिहास हटा दें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Izbriši svu povijest"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -3941,6 +4223,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "सभी अनुवाद हटाएँ"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Izbriši sve prijevode"
           }
         },
         "id": {
@@ -4026,6 +4314,12 @@
             "value": "बातचीत मिटाएं"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Izbriši razgovor"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -4107,6 +4401,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "इतिहास प्रविष्टि हटाएँ"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Izbriši unos povijesti"
           }
         },
         "id": {
@@ -4192,6 +4492,12 @@
             "value": "अनुवाद प्रविष्टि हटाएँ"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Izbriši unos prijevoda"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -4273,6 +4579,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "प्यार और देखभाल के साथ डिज़ाइन और विकसित किया गया"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dizajniran i razvijen s ljubavlju i pažnjom"
           }
         },
         "id": {
@@ -4358,6 +4670,12 @@
             "value": "शब्दकोष"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rječnik"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -4439,6 +4757,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "डाउनलोड करना"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "preuzimanje"
           }
         },
         "id": {
@@ -4524,6 +4848,12 @@
             "value": "फ़ोटो से टेक्स्ट का आसानी से अनुवाद करें, चाहे वह कोई चिह्न, मेनू या दस्तावेज़ हो। जब भी आपको इसकी आवश्यकता हो यह ऑफ़लाइन काम करता है।"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jednostavno prevedite tekst s fotografija, bilo da se radi o znaku, jelovniku ili dokumentu. Radi izvan mreže kad god vam zatreba."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -4605,6 +4935,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "बातचीत के लिए निर्बाध वास्तविक समय अनुवाद का आनंद लें। ऑफ़लाइन उपलब्ध है."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uživajte u neprekinutim prijevodima razgovora u stvarnom vremenu. Dostupno izvan mreže."
           }
         },
         "id": {
@@ -4690,6 +5026,12 @@
             "value": "पाठ दर्ज करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unesite tekst"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -4771,6 +5113,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "प्रविष्टियां"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Upisi"
           }
         },
         "id": {
@@ -4856,6 +5204,12 @@
             "value": "प्रवेश"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ulazak"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -4937,6 +5291,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "गलती"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Greška"
           }
         },
         "id": {
@@ -5022,6 +5382,12 @@
             "value": "त्रुटि हुई"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Došlo je do pogreške"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -5103,6 +5469,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "उदाहरण"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Primjeri"
           }
         },
         "id": {
@@ -5188,6 +5560,12 @@
             "value": "जब भी आपको आवश्यकता हो, तेज़, विश्वसनीय पाठ अनुवाद"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brz, pouzdan prijevod teksta\\nkad god ga trebate"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -5269,6 +5647,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "प्रतिक्रिया"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Povratne informacije"
           }
         },
         "id": {
@@ -5354,6 +5738,12 @@
             "value": "महिला"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Žena"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -5435,6 +5825,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "लाइव स्कैन में फ़्लैश उपलब्ध नहीं है"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Flash nije dostupan u skeniranju uživo"
           }
         },
         "id": {
@@ -5520,6 +5916,12 @@
             "value": "बेहतर सटीकता के लिए?"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "za bolju točnost?"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -5601,6 +6003,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "से"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Iz"
           }
         },
         "id": {
@@ -5686,6 +6094,12 @@
             "value": "वार्षिक रूप से प्राप्त करें - सहेजें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DOBITE GODIŠNJE - UŠTEDITE"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -5767,6 +6181,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "मासिक प्राप्त करें - बचत करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DOBITE MJESEČNO - UŠTEDITE"
           }
         },
         "id": {
@@ -5852,6 +6272,12 @@
             "value": "शुरू हो जाओ"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Započnite"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -5933,6 +6359,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "साप्ताहिक प्राप्त करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PREUZMI TJEDNO"
           }
         },
         "id": {
@@ -6018,6 +6450,12 @@
             "value": "अपना वैयक्तिकृत प्राप्त करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prilagodite svoje"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -6099,6 +6537,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "सेटिंग्स पर जाएं"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Idite na Postavke"
           }
         },
         "id": {
@@ -6184,6 +6628,12 @@
             "value": "हैप्टिक्स"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opipljivost"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -6265,6 +6715,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "किसी भी भाषा में आसानी से अनुवादित बातचीत करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vodite razgovor na bilo kojem jeziku\\nepreveden bez muke"
           }
         },
         "id": {
@@ -6350,6 +6806,12 @@
             "value": "नमस्ते"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zdravo"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -6427,6 +6889,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "हैलो वर्ल्ड!"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zdravo svijete!"
           }
         },
         "id": {
@@ -6512,6 +6980,12 @@
             "value": "योजनाएँ छिपाएँ"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sakrij planove"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -6593,6 +7067,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "इतिहास"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Povijest"
           }
         },
         "id": {
@@ -6678,6 +7158,12 @@
             "value": "सटीक अनुवाद के लिए पाठ को दबाए रखें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zadrži tekst za precizan prijevod"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -6759,6 +7245,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "छवि सहेजी गई"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slika spremljena"
           }
         },
         "id": {
@@ -6844,6 +7336,12 @@
             "value": "छवि अनुवाद"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prijevod slika"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -6925,6 +7423,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "गुप्त"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inkognito"
           }
         },
         "id": {
@@ -7010,6 +7514,12 @@
             "value": "प्रारंभ किया जा रहा है..."
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "inicijalizacija..."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -7085,6 +7595,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "कुंजी 1"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ključ 1"
           }
         },
         "id": {
@@ -7170,6 +7686,12 @@
             "value": "भाषा"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "jezik"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -7251,6 +7773,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "भाषा बेमेल का पता चला"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otkrivena jezična nepodudarnost"
           }
         },
         "id": {
@@ -7336,6 +7864,12 @@
             "value": "भाषा डाउनलोड नहीं हुई:"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jezik nije preuzet:"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -7417,6 +7951,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "बोली"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "jezici"
           }
         },
         "id": {
@@ -7502,6 +8042,12 @@
             "value": "डाउनलोड नहीं की गई भाषाएँ:"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jezici koji nisu preuzeti:"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -7583,6 +8129,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "कानूनी शर्तें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PRAVNI UVJETI"
           }
         },
         "id": {
@@ -7668,6 +8220,12 @@
             "value": "जीवनभर"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Životni vijek"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -7749,6 +8307,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "सुनना..."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slušanje..."
           }
         },
         "id": {
@@ -7834,6 +8398,12 @@
             "value": "रहना"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Živjeti"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -7915,6 +8485,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "लाइव टेक्स्ट स्कैनिंग"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skeniranje teksta uživo"
           }
         },
         "id": {
@@ -8000,6 +8576,12 @@
             "value": "सटीक अनुवाद प्राप्त करने के लिए\\nकैमरा दृश्य में टेक्स्ट को देर तक दबाएँ"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dugo pritisnite tekst u prikazu kamere\\nza točan prijevod"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -8081,6 +8663,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "पुरुष"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Muški"
           }
         },
         "id": {
@@ -8166,6 +8754,12 @@
             "value": "माइक्रोफ़ोन पहुंच अस्वीकृत"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pristup mikrofonu odbijen"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -8247,6 +8841,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "महीना"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mjesec"
           }
         },
         "id": {
@@ -8332,6 +8932,12 @@
             "value": "मासिक योजना"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mjesečni plan"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -8413,6 +9019,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अधिक"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "više"
           }
         },
         "id": {
@@ -8498,6 +9110,12 @@
             "value": "नया"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Novi"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -8579,6 +9197,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "नया संस्करण उपलब्ध है"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nova verzija dostupna"
           }
         },
         "id": {
@@ -8664,6 +9288,12 @@
             "value": "अभी तक कोई बुकमार्क नहीं"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Još nema knjižnih oznaka"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -8745,6 +9375,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अभी तक कोई बातचीत नहीं हुई"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Još nema razgovora"
           }
         },
         "id": {
@@ -8830,6 +9466,12 @@
             "value": "कोई बातचीत नहीं"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bez razgovora"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -8911,6 +9553,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "हटाने के लिए कोई बातचीत नहीं."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nema razgovora za brisanje."
           }
         },
         "id": {
@@ -8996,6 +9644,12 @@
             "value": "अभी तक कोई बातचीत नहीं"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Još nema razgovora"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -9077,6 +9731,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "कोई इतिहास नहीं"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nema povijesti"
           }
         },
         "id": {
@@ -9162,6 +9822,12 @@
             "value": "हटाने के लिए कोई इतिहास नहीं."
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nema povijesti za brisanje."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -9243,6 +9909,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अभी तक कोई इतिहास नहीं"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Još nema povijesti"
           }
         },
         "id": {
@@ -9328,6 +10000,12 @@
             "value": "कोई छवि पहचानी नहीं गई, कृपया पुनः प्रयास करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slika nije prepoznata, pokušajte ponovno"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -9409,6 +10087,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "कोई इंटरनेट कनेक्शन नहीं"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nema internetske veze"
           }
         },
         "id": {
@@ -9494,6 +10178,12 @@
             "value": "कोई हालिया इतिहास नहीं"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nema novije povijesti"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -9575,6 +10265,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अभी तक कोई हालिया इतिहास नहीं"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Još nema novije povijesti"
           }
         },
         "id": {
@@ -9660,6 +10356,12 @@
             "value": "कोई प्रतिक्रिया नहीं मिली"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nije primljen odgovor"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -9741,6 +10443,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "कोई खोज नहीं मिली"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nije pronađeno pretraživanje"
           }
         },
         "id": {
@@ -9826,6 +10534,12 @@
             "value": "कोई पाठ नहीं मिला"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tekst nije otkriven"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -9907,6 +10621,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अंदर प्रवेश की अनुमति नहीं है"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niste prijavljeni"
           }
         },
         "id": {
@@ -9992,6 +10712,12 @@
             "value": "पाठ के लिए ध्वनि का समर्थन नहीं करता"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ne podržava glas u tekst"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -10073,6 +10799,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "वस्तु पहले ही खोजी जा चुकी है, कृपया कोई दूसरा प्रयास करें।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Objekt je već otkriven, pokušajte s drugim."
           }
         },
         "id": {
@@ -10158,6 +10890,12 @@
             "value": "ऑफलाइन"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Izvan mreže"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -10239,6 +10977,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ठीक है"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "U redu"
           }
         },
         "id": {
@@ -10324,6 +11068,12 @@
             "value": "ठीक है"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "U redu"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -10405,6 +11155,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ठीक है, समझ गया!"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "U redu, shvaćam!"
           }
         },
         "id": {
@@ -10490,6 +11246,12 @@
             "value": "ठीक है, मैं सुन रहा हूँ..."
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "U redu, slušam..."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -10571,6 +11333,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "एआई कैमरा खोलें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otvorite AI kameru"
           }
         },
         "id": {
@@ -10656,6 +11424,12 @@
             "value": "अन्य कुंजी%1$(someThing)@"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drugi ključ %1$(someThing)@"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -10737,6 +11511,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "पृष्ठों"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "stranice"
           }
         },
         "id": {
@@ -10822,6 +11602,12 @@
             "value": "पीडीएफ"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PDF"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -10903,6 +11689,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "पीडीएफ और दस्तावेज़ अनुवाद"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prijevod PDF-a i dokumenata"
           }
         },
         "id": {
@@ -10988,6 +11780,12 @@
             "value": "अनुमति नहीं मिली"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dopuštenje odbijeno"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -11069,6 +11867,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अनुमति आवश्यक है"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Potrebno dopuštenje"
           }
         },
         "id": {
@@ -11154,6 +11958,12 @@
             "value": "तस्वीरें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fotografije"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -11235,6 +12045,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "कृपया अपना मेल कॉन्फ़िगरेशन जांचें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Provjerite konfiguraciju svoje pošte"
           }
         },
         "id": {
@@ -11320,6 +12136,12 @@
             "value": "ध्वनि सुविधाओं का उपयोग करने के लिए कृपया अपनी डिवाइस सेटिंग में माइक्रोफ़ोन एक्सेस सक्षम करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Omogućite pristup mikrofonu u postavkama uređaja za korištenje glasovnih značajki"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -11401,6 +12223,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "कृपया आगे बढ़ने के लिए अपनी डिवाइस सेटिंग में फोटो एक्सेस सक्षम करें।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Za nastavak omogućite pristup fotografijama u postavkama uređaja."
           }
         },
         "id": {
@@ -11486,6 +12314,12 @@
             "value": "प्रतिक्रिया भेजने के लिए कृपया लॉग इन करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Molimo prijavite se za slanje povratnih informacija"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -11567,6 +12401,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "कृपया पुन: प्रयास करें!"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Molimo pokušajte ponovno!"
           }
         },
         "id": {
@@ -11652,6 +12492,12 @@
             "value": "जारी रखने के लिए कृपया अपने ऐप को नए संस्करण के साथ अपडेट करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Za nastavak ažurirajte svoju aplikaciju novom verzijom"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -11733,6 +12579,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "लोकप्रिय"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Popularan"
           }
         },
         "id": {
@@ -11818,6 +12670,12 @@
             "value": "प्राथमिकताएँ"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PREFERENCIJE"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -11899,6 +12757,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "गोपनीयता नीति"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Politika privatnosti"
           }
         },
         "id": {
@@ -11984,6 +12848,12 @@
             "value": "प्रो"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PRO"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -12065,6 +12935,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "इतिहास दिखाने के लिए नीचे खींचें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Povucite prema dolje za prikaz povijesti"
           }
         },
         "id": {
@@ -12150,6 +13026,12 @@
             "value": "हमें रेटिंग दें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ocijenite nas"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -12231,6 +13113,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "हाल ही का"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nedavno"
           }
         },
         "id": {
@@ -12316,6 +13204,12 @@
             "value": "हाल का पहला"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prvo nedavno"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -12397,6 +13291,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "निकालना"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ukloniti"
           }
         },
         "id": {
@@ -12482,6 +13382,12 @@
             "value": "बुकमार्क से हटाएँ"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ukloni iz oznaka"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -12563,6 +13469,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "सत्र पुनः आरंभ करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ponovno pokrenite sesiju"
           }
         },
         "id": {
@@ -12648,6 +13560,12 @@
             "value": "पुनर्स्थापित करना"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vratiti"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -12729,6 +13647,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "पुन: प्रयास करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pokušaj ponovo"
           }
         },
         "id": {
@@ -12814,6 +13738,12 @@
             "value": "समीक्षाएँ और साझाकरण"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "RECENZIJE I DIJELJENJE"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -12895,6 +13825,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "बचाना"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uštedjeti"
           }
         },
         "id": {
@@ -12980,6 +13916,12 @@
             "value": "सहेजें विफल"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spremanje nije uspjelo"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -13061,6 +14003,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अपने कैमरे से वास्तविक समय में टेक्स्ट को स्कैन करें और आप जहां भी हों, तत्काल अनुवाद प्राप्त करें।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skenirajte tekst u stvarnom vremenu svojom kamerom i dobijte trenutne prijevode, gdje god se nalazili."
           }
         },
         "id": {
@@ -13146,6 +14094,12 @@
             "value": "अपने कैमरे का उपयोग करके टेक्स्ट को स्कैन करें और तुरंत अनुवाद प्राप्त करें। ऑफ़लाइन उपलब्ध है."
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skenirajte tekst pomoću svoje kamere i dobijte trenutne prijevode. Dostupno izvan mreže."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -13227,6 +14181,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "स्कैनर समर्थित नहीं है"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skener nije podržan"
           }
         },
         "id": {
@@ -13312,6 +14272,12 @@
             "value": "इतिहास देखने के लिए नीचे स्क्रॉल करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pomaknite se prema dolje za pregled povijesti"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -13393,6 +14359,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अधिक योजनाएं देखें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pogledajte više planova"
           }
         },
         "id": {
@@ -13478,6 +14450,12 @@
             "value": "स्क्रीन को नीचे स्क्रॉल करके\\nअपने हाल के अनुवाद देखें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pogledajte svoje nedavne prijevode\\npomicanjem zaslona prema dolje"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -13559,6 +14537,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "पीडीएफ पेज चुनें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odaberite PDF stranice"
           }
         },
         "id": {
@@ -13644,6 +14628,12 @@
             "value": "तक का चयन करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odaberite do"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -13725,6 +14715,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अपनी योजना चुनें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odaberite svoj plan"
           }
         },
         "id": {
@@ -13810,6 +14806,12 @@
             "value": "चयनित"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odabrano"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -13891,6 +14893,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "सेटिंग्स"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "postavke"
           }
         },
         "id": {
@@ -13976,6 +14984,12 @@
             "value": "शेयर करना"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Udio"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -14057,6 +15071,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "एक ऐप साझा करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Podijelite aplikaciju"
           }
         },
         "id": {
@@ -14142,6 +15162,12 @@
             "value": "छोडना"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preskočiti"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -14223,6 +15249,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "स्मार्ट सुविधाएँ"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pametne značajke"
           }
         },
         "id": {
@@ -14308,6 +15340,12 @@
             "value": "स्मार्ट सुझाव"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pametni prijedlozi"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -14389,6 +15427,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "एक फोटो खींचें और मेनू और संकेतों जैसी छवियों से टेक्स्ट का तुरंत अनुवाद करें। ऑफ़लाइन उपलब्ध है."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snimite fotografiju i odmah prevedite tekst sa slika, poput izbornika i znakova. Dostupno izvan mreže."
           }
         },
         "id": {
@@ -14474,6 +15518,12 @@
             "value": "कुछ कुंजी"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neki ključ"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -14555,6 +15605,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "कैमरा एक्सेस का अनुरोध करते समय कुछ गलत हो गया"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nešto nije u redu prilikom traženja pristupa kameri"
           }
         },
         "id": {
@@ -14640,6 +15696,12 @@
             "value": "कुछ गलत हो गया। कृपया बाद में पुन: प्रयास करें।"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nešto nije u redu. Pokušajte ponovno kasnije."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -14721,6 +15783,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "माइक में बोलें, और आपके शब्दों का पसंदीदा भाषा में अनुवाद किया जाएगा"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Govorite u mikrofon i vaše će riječi\\nbiti prevedene na željeni jezik"
           }
         },
         "id": {
@@ -14806,6 +15874,12 @@
             "value": "बोलना। अनुवाद करना। उलटा"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Govoriti. Prevesti. Razgovarati"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -14887,6 +15961,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "वाक् पहचान पहुंच अस्वीकृत"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pristup prepoznavanju govora odbijen"
           }
         },
         "id": {
@@ -14972,6 +16052,12 @@
             "value": "रुकना"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stop"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -15053,6 +16139,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "मासिक सदस्यता लें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pretplatite se mjesečno"
           }
         },
         "id": {
@@ -15138,6 +16230,12 @@
             "value": "साप्ताहिक सदस्यता लें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pretplatite se tjedno"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -15219,6 +16317,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ज़रूर"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Naravno"
           }
         },
         "id": {
@@ -15304,6 +16408,12 @@
             "value": "अनुवाद करने के लिए ऊपर की ओर स्वाइप करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prijeđite prstom prema gore za prijevod"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -15385,6 +16495,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "समानार्थी शब्द"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sinonim"
           }
         },
         "id": {
@@ -15470,6 +16586,12 @@
             "value": "बिना सीमा के बात करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Razgovarajte bez ograničenja"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -15551,6 +16673,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "एआई-संचालित सटीकता के साथ टेक्स्ट को स्कैन और अनुवाद करना शुरू करने के लिए यहां टैप करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dodirnite ovdje za početak skeniranja i\\nprevođenja teksta s preciznošću koju pokreće AI"
           }
         },
         "id": {
@@ -15636,6 +16764,12 @@
             "value": "किसी भी ऑब्जेक्ट को AR में अपनी पसंदीदा भाषा में अनुवाद करने के लिए उस पर टैप करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dodirnite bilo koji objekt da biste ga preveli\\nna željeni jezik u AR-u"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -15717,6 +16851,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "बातचीत शुरू करने के लिए माइक पर टैप करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dodirnite mikrofon za početak razgovora"
           }
         },
         "id": {
@@ -15802,6 +16942,12 @@
             "value": "एआर अनुवाद के लिए ऑब्जेक्ट पर टैप करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dodirnite Objekt za AR prijevod"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -15883,6 +17029,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "बातचीत शुरू करने और वास्तविक समय में अनुवाद प्राप्त करने के लिए माइक टैप करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dodirnite mikrofon da biste započeli razgovor i\\ndobili prijevode u stvarnom vremenu"
           }
         },
         "id": {
@@ -15968,6 +17120,12 @@
             "value": "उपयोग की शर्तें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uvjeti korištenja"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -16049,6 +17207,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अब कॉपी किया गया टेक्स्ट कहीं भी पेस्ट करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tekst kopiran sada zalijepite bilo gdje"
           }
         },
         "id": {
@@ -16134,6 +17298,12 @@
             "value": "पाठ कॉपी किया गया!"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tekst kopiran!"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -16211,6 +17381,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "पाठ संदेश"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SMS poruka"
           }
         },
         "id": {
@@ -16296,6 +17472,12 @@
             "value": "पाठ पहचाना नहीं गया - कृपया पुनः प्रयास करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tekst nije prepoznat – pokušajte ponovno"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -16377,6 +17559,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "पाठ का अनुवाद विफल रहा"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prijevod teksta nije uspio"
           }
         },
         "id": {
@@ -16462,6 +17650,12 @@
             "value": "एआर सत्र विफल रहा"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AR sesija nije uspjela"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -16543,6 +17737,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "पता लगाया गया पाठ अंदर है"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otkriveni tekst je unutra"
           }
         },
         "id": {
@@ -16628,6 +17828,12 @@
             "value": "इसे वार्तालाप इतिहास से हटा दिया जाएगा. क्या आपको यकीन है?"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ovo će biti uklonjeno iz povijesti razgovora. Jeste li sigurni?"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -16709,6 +17915,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "इसे इतिहास और बुकमार्क से हटा दिया जाएगा. क्या आपको यकीन है?"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ovo će biti uklonjeno iz povijesti i oznaka. Jeste li sigurni?"
           }
         },
         "id": {
@@ -16794,6 +18006,12 @@
             "value": "इसे अनुवाद इतिहास और बुकमार्क से हटा दिया जाएगा. क्या आपको यकीन है?"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ovo će biti uklonjeno iz povijesti prijevoda i oznaka. Jeste li sigurni?"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -16875,6 +18093,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "इससे सभी वार्तालाप हटा दिए जाएंगे. क्या आपको यकीन है?"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ovo će ukloniti sve razgovore. Jeste li sigurni?"
           }
         },
         "id": {
@@ -16960,6 +18184,12 @@
             "value": "यह सभी इतिहास और बुकमार्क हटा देगा. क्या आपको यकीन है?"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ovo će ukloniti svu povijest i oznake. Jeste li sigurni?"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -17041,6 +18271,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "इससे सभी अनुवाद इतिहास और बुकमार्क हटा दिए जाएंगे. क्या आपको यकीन है?"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ovo će ukloniti svu povijest prijevoda i knjižne oznake. Jeste li sigurni?"
           }
         },
         "id": {
@@ -17126,6 +18362,12 @@
             "value": "को"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Do"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -17207,6 +18449,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ऑफ़लाइन उपयोग करने के लिए"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "koristiti izvan mreže"
           }
         },
         "id": {
@@ -17292,6 +18540,12 @@
             "value": "वाक् सुविधाओं का उपयोग करने के लिए, कृपया अपनी डिवाइस सेटिंग में वाक् पहचान सक्षम करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Za korištenje govornih značajki omogućite prepoznavanje govora u postavkama uređaja"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -17373,6 +18627,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "कैमरे का उपयोग करने के लिए, कृपया अपनी डिवाइस सेटिंग में पहुंच सक्षम करें।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Za korištenje kamere omogućite pristup u postavkama uređaja."
           }
         },
         "id": {
@@ -17458,6 +18718,12 @@
             "value": "आज"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Danas"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -17539,6 +18805,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "सुर"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ton"
           }
         },
         "id": {
@@ -17624,6 +18896,12 @@
             "value": "अनुवाद"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prevesti"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -17705,6 +18983,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "एआई का अनुवाद करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prevedi AI"
           }
         },
         "id": {
@@ -17790,6 +19074,12 @@
             "value": "कहीं भी, किसी भी चीज़ का अनुवाद करें - 150+ भाषाओं में!"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prevodite bilo što, bilo gdje - na\\n150+ jezika!"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -17871,6 +19161,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "उन्नत सुविधाओं तक असीमित पहुंच के साथ, कभी भी, कहीं भी, ऑनलाइन या ऑफलाइन अनुवाद करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prevodite bilo kada, bilo gdje, online ili offline, s neograničenim pristupom naprednim značajkama"
           }
         },
         "id": {
@@ -17956,6 +19252,12 @@
             "value": "छवियों और\\nदस्तावेज़ों से टेक्स्ट का तुरंत अनुवाद करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trenutačno prevodite tekst sa slika i\\ndokumenata"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -18037,6 +19339,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "टेक्स्ट का 200 से अधिक भाषाओं में अनुवाद करें, जब भी आपको इसकी आवश्यकता हो, चाहे आप कहीं भी हों - ऑफ़लाइन भी।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prevedite tekst na više od 200 jezika, kad god vam zatreba, bez obzira gdje se nalazite — čak i izvan mreže."
           }
         },
         "id": {
@@ -18122,6 +19430,12 @@
             "value": "अपने दस्तावेज़ों का अनुवाद निर्बाध रूप से, बिना किसी रुकावट के, ऑफ़लाइन भी करें।"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prevodite svoje dokumente neprimjetno, bez prekida, čak i izvan mreže."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -18203,6 +19517,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ऑफ़लाइन होने पर भी अपने दस्तावेज़ों का आसानी से अनुवाद करें। हमेशा आपकी उंगलियों पर."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prevedite svoje dokumente s lakoćom, čak i kada ste izvan mreže. Uvijek na dohvat ruke."
           }
         },
         "id": {
@@ -18288,6 +19608,12 @@
             "value": "पाठ का अनुवाद किया जा रहा है..."
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prijevod teksta..."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -18369,6 +19695,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अनुवाद हो रहा है..."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prevođenje..."
           }
         },
         "id": {
@@ -18454,6 +19786,12 @@
             "value": "अनुवाद"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prijevod"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -18535,6 +19873,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अनुवाद विफल"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prijevod nije uspio"
           }
         },
         "id": {
@@ -18620,6 +19964,12 @@
             "value": "अनुवाद"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prijevodi"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -18701,6 +20051,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अब अनुवादक!"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prevoditelj sada!"
           }
         },
         "id": {
@@ -18786,6 +20142,12 @@
             "value": "के लिए कोशिश"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pokušajte za"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -18867,6 +20229,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "हर शब्द को समझें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Razumjeti svaku riječ"
           }
         },
         "id": {
@@ -18952,6 +20320,12 @@
             "value": "अज्ञात कैमरा स्थिति"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nepoznato stanje kamere"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -19033,6 +20407,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "असीमित बातचीत"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neograničeni razgovori"
           }
         },
         "id": {
@@ -19118,6 +20498,12 @@
             "value": "असमर्थित भाषा"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nepodržani jezik"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -19199,6 +20585,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "अद्यतन"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ažurirati"
           }
         },
         "id": {
@@ -19284,6 +20676,12 @@
             "value": "उन्नत करना"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nadogradnja"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -19365,6 +20763,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "में अपग्रेड"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nadogradi na"
           }
         },
         "id": {
@@ -19450,6 +20854,12 @@
             "value": "उन्नत सुविधाओं और संपूर्ण लाभों तक असीमित पहुंच के साथ बेहतर अनुभव के लिए प्रीमियम में अपग्रेड करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nadogradite na Premium za poboljšano iskustvo s neograničenim pristupom naprednim značajkama i svim pogodnostima"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -19531,6 +20941,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "पीडीएफ अपलोड करें"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Učitaj PDF"
           }
         },
         "id": {
@@ -19616,6 +21032,12 @@
             "value": "संवर्धित वास्तविकता के साथ वास्तविक समय में वास्तविक दुनिया की वस्तुओं पर अनुवाद देखें। ऑफ़लाइन उपलब्ध है."
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pregledajte prijevode na objektima stvarnog svijeta u stvarnom vremenu s proširenom stvarnošću. Dostupno izvan mreže."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -19697,6 +21119,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "आवाज़"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Glas"
           }
         },
         "id": {
@@ -19782,6 +21210,12 @@
             "value": "के लिए आवाज उपलब्ध नहीं है"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Glas nije dostupan za"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -19863,6 +21297,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "इस भाषा के लिए आवाज़ उपलब्ध नहीं है."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Glas nije dostupan za ovaj jezik."
           }
         },
         "id": {
@@ -19948,6 +21388,12 @@
             "value": "आवाज की गति"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BRZINA GLASA"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -20029,6 +21475,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "वॉल्यूम बहुत कम है"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Glasnoća je preniska"
           }
         },
         "id": {
@@ -20114,6 +21566,12 @@
             "value": "हम छवि में कोई पाठ नहीं ढूंढ सके। कृपया सुनिश्चित करें कि पाठ स्पष्ट और दृश्यमान है, फिर पुनः प्रयास करें।"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nismo mogli otkriti nikakav tekst na slici. Provjerite je li tekst jasan i vidljiv, a zatim pokušajte ponovno."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -20195,6 +21653,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "हम पीडीएफ छवि में किसी भी पाठ का पता नहीं लगा सके। कृपया सुनिश्चित करें कि पाठ स्पष्ट और दृश्यमान है, फिर पुनः प्रयास करें।"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nismo mogli otkriti nikakav tekst na pdf slici. Provjerite je li tekst jasan i vidljiv, a zatim pokušajte ponovno."
           }
         },
         "id": {
@@ -20280,6 +21744,12 @@
             "value": "हमें आपकी खोज से मेल खाने वाला कोई बुकमार्क नहीं मिला। विभिन्न कीवर्ड का उपयोग करने का प्रयास करें."
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nismo mogli pronaći nijednu oznaku koja odgovara\\nvašem pretraživanju. Pokušajte koristiti druge ključne riječi."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -20361,6 +21831,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "हमें आपकी खोज से मेल खाती कोई बातचीत नहीं मिली. विभिन्न कीवर्ड का उपयोग करने का प्रयास करें."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nismo mogli pronaći nijedan razgovor koji odgovara vašoj pretrazi. Pokušajte koristiti druge ključne riječi."
           }
         },
         "id": {
@@ -20446,6 +21922,12 @@
             "value": "हमें आपकी खोज से मेल खाता कोई इतिहास नहीं मिला। विभिन्न कीवर्ड का उपयोग करने का प्रयास करें."
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nismo mogli pronaći nikakvu povijest koja odgovara\\nvašem pretraživanju. Pokušajte koristiti druge ključne riječi."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -20527,6 +22009,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "हमें आपकी खोज से मेल खाती कोई भाषा नहीं मिल सकी। विभिन्न कीवर्ड का उपयोग करने का प्रयास करें."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nismo mogli pronaći nijedan jezik koji odgovara\\nvašem pretraživanju. Pokušajte koristiti druge ključne riječi."
           }
         },
         "id": {
@@ -20612,6 +22100,12 @@
             "value": "हम फिलहाल अनुवाद पुनः प्राप्त नहीं कर सके। कृपया पुन: प्रयास करें।"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trenutačno nismo mogli dohvatiti prijevod. Molimo pokušajte ponovo."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -20693,6 +22187,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "हम आपकी छवि सहेज नहीं सके."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nismo uspjeli spremiti vašu sliku."
           }
         },
         "id": {
@@ -20778,6 +22278,12 @@
             "value": "हम छवि से पाठ का अनुवाद नहीं कर सके. कृपया स्पष्ट छवि या भिन्न पाठ के साथ पुनः प्रयास करें"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nismo mogli prevesti tekst sa slike. Pokušajte ponovo s jasnijom slikom ili drugačijim tekstom"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -20859,6 +22365,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "सप्ताह"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tjedan"
           }
         },
         "id": {
@@ -20944,6 +22456,12 @@
             "value": "साप्ताहिक योजना"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tjedni plan"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -21025,6 +22543,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "क्या आप स्रोत भाषा को इसमें बदलना चाहेंगे?"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Želite li promijeniti izvorni jezik u"
           }
         },
         "id": {
@@ -21110,6 +22634,12 @@
             "value": "वर्ष"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "godina"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -21191,6 +22721,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "वार्षिक योजना"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Godišnji plan"
           }
         },
         "id": {
@@ -21276,6 +22812,12 @@
             "value": "कल"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jučer"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -21357,6 +22899,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "आपसे शुल्क लिया जाएगा"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bit će vam naplaćeno"
           }
         },
         "id": {
@@ -21442,6 +22990,12 @@
             "value": "आप ऑफ़लाइन अनुवाद का उपयोग कर रहे हैं"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Koristite izvanmrežni prijevod"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -21523,6 +23077,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "आपके बुकमार्क जुड़ते ही\\nयहां दिखाई देंगे"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vaše će se oznake pojaviti\\novdje nakon dodavanja"
           }
         },
         "id": {
@@ -21608,6 +23168,12 @@
             "value": "आपके बुकमार्क मिटा दिए जाएंगे, लेकिन आपका इतिहास बना रहेगा। क्या आप जारी रखना चाहते हैं?"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vaše će oznake biti izbrisane, ali vaša povijest ostaje. Želite li nastaviti?"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -21689,6 +23255,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "आपकी बातचीत यहां दिखाई देगी"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vaš razgovor će se pojaviti ovdje"
           }
         },
         "id": {
@@ -21774,6 +23346,12 @@
             "value": "आपका डिवाइस लाइव टेक्स्ट स्कैनिंग का समर्थन नहीं करता है. सुनिश्चित करें कि आपके पास एक संगत डिवाइस और कैमरा एक्सेस सक्षम है"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vaš uređaj ne podržava skeniranje teksta uživo. Provjerite imate li omogućen pristup kompatibilnom uređaju i kameri"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -21855,6 +23433,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "आपका इतिहास यहां दिखाई देगा"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ovdje će se prikazati vaša povijest"
           }
         },
         "id": {
@@ -21940,6 +23524,12 @@
             "value": "आपकी छवि फ़ोटो में सफलतापूर्वक सहेज ली गई है."
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vaša je slika uspješno spremljena u Fotografije."
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -22023,6 +23613,12 @@
             "value": "आपकी हाल की गतिविधि यहां दिखाई देगी"
           }
         },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ovdje će se prikazati vaša nedavna aktivnost"
+          }
+        },
         "id": {
           "stringUnit": {
             "state": "translated",
@@ -22104,6 +23700,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "आपकी अंतिम यात्रा आवश्यक - वास्तविक समय में अनुवाद, कहीं भी - अनुवाद एआई"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vaš ultimativni ključ za putovanje — prijevod u stvarnom vremenu, bilo gdje - Translate AI"
           }
         },
         "id": {

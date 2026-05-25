@@ -176,7 +176,7 @@ Open `translator.py` and change the `MAX_THREADS` value near the top of the file
 
 ```python
 # Number of parallel translation threads
-MAX_THREADS = 20   # default — change to 10 or 5 for large batches
+MAX_THREADS = 20   # default — change to 15 or 10 for large batches
 ```
 
 Setting it to `15` or `10` slows down translation but ensures the API is not overwhelmed and all strings complete successfully.

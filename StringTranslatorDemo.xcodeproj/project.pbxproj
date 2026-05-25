@@ -127,6 +127,7 @@
 				id,
 				zu,
 				af,
+				hr,
 			);
 			mainGroup = ECC508232FBDAB45008A1EFA;
 			minimizedProjectReferenceProxies = 1;
