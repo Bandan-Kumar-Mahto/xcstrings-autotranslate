@@ -423,7 +423,8 @@ def generate_xcstrings_from_lproj():
             xcstrings_data,
             f,
             ensure_ascii=False,
-            indent=2
+            indent=2,
+            separators=(',', ' : ')
         )
 
     print(
@@ -811,7 +812,8 @@ try:
             data,
             f,
             ensure_ascii=False,
-            indent=2
+            indent=2,
+            separators=(',', ' : ')
         )
 
     print(f"✓ Saved to: {OUTPUT_FILE}")
