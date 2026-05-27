@@ -91,15 +91,31 @@ YourApp/
 ```bash
 #!/bin/sh
 
-SCRIPT_PATH="${SRCROOT}/YourAppName/Resources/translator.py"
-RESOURCE_DIR="${SRCROOT}/YourAppName/Resources"
+set -euo pipefail   # optional – fail fast on unexpected errors
 
-if [ ! -f "$SCRIPT_PATH" ]; then
-    echo "ERROR: Python script not found: $SCRIPT_PATH"
-    exit 1
+if [ -n "${CI:-}" ] || [ -n "${XCODE_CLOUD:-}" ]; then
+    echo "⏭️ CI detected (CI=$CI) – skipping translator script."
+    exit 0
 fi
 
-/usr/bin/env python3 "$SCRIPT_PATH" --resource-dir "$RESOURCE_DIR" --no-interactive
+# 2️⃣  Proceed only for the Debug configuration
+if [ "$CONFIGURATION" = "Debug" ]; then
+    echo "▶️ Running debug‑only translator script"
+
+    SCRIPT_PATH="${SRCROOT}/StringTranslatorDemo/Resources/translator.py"
+    RESOURCE_DIR="${SRCROOT}/StringTranslatorDemo/Resources"
+
+    if [ ! -f "$SCRIPT_PATH" ]; then
+        echo "❗️ ERROR: Python script not found: $SCRIPT_PATH"
+        exit 1
+    fi
+
+    /usr/bin/env python3 "$SCRIPT_PATH" \
+        --resource-dir "$RESOURCE_DIR" \
+        --no-interactive
+else
+    echo "⏭️ Skipping translator – not a Debug build (CONFIGURATION=$CONFIGURATION)"
+fi
 ```
 
 > **Important — Update the folder name**

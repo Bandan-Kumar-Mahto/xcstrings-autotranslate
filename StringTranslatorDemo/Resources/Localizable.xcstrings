@@ -7719,87 +7719,84 @@
       }
     },
     "Interpolation ✅" : {
-
-    },
-    "Interpolation example" : {
       "extractionState" : "manual",
       "localizations" : {
         "af" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Interpolasie voorbeeld"
+            "value" : "Interpolasie ✅"
           }
         },
         "bn" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ইন্টারপোলেশন উদাহরণ"
+            "value" : "ইন্টারপোলেশন ✅"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Interpolationsbeispiel"
+            "value" : "Interpolation ✅"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ejemplo de interpolación"
+            "value" : "Interpolación ✅"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exemple d'interpolation"
+            "value" : "Interpolation ✅"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अंतर्वेशन उदाहरण"
+            "value" : "अंतर्वेशन ✅"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Primjer interpolacije"
+            "value" : "Interpolacija ✅"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contoh interpolasi"
+            "value" : "Interpolasi ✅"
           }
         },
         "mr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "इंटरपोलेशन उदाहरण"
+            "value" : "इंटरपोलेशन ✅"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exemplo de interpolação"
+            "value" : "Interpolação ✅"
           }
         },
         "ta" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "இடைக்கணிப்பு உதாரணம்"
+            "value" : "இடைக்கணிப்பு ✅"
           }
         },
         "te" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ఇంటర్పోలేషన్ ఉదాహరణ"
+            "value" : "ఇంటర్పోలేషన్ ✅"
           }
         },
         "zu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Isibonelo se-interpolation"
+            "value" : "Ukuhumusha ✅"
           }
         }
       }
@@ -7914,12 +7911,6 @@
             "value" : "Language Mismatch Detected"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Discordancia de idioma detectada"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7972,6 +7963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kutholwe Ukungafani Kolimi"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discordancia de idioma detectada"
           }
         }
       }
@@ -8154,95 +8151,6 @@
         }
       }
     },
-    "Languages not downloaded:" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "af" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tale wat nie afgelaai is nie:"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "যেসব ভাষা ডাউনলোড করা হয়নি:"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nicht heruntergeladene Sprachen:"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Languages not downloaded:"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Idiomas no descargados:"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Langues non téléchargées :"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "डाउनलोड नहीं की गई भाषाएँ:"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jezici koji nisu preuzeti:"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bahasa tidak diunduh:"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "डाउनलोड न केलेल्या भाषा:"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Idiomas não baixados:"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "பதிவிறக்கம் செய்யப்படாத மொழிகள்:"
-          }
-        },
-        "te" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "డౌన్‌లోడ్ చేయని భాషలు:"
-          }
-        },
-        "zu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Izilimi azilandwanga:"
-          }
-        }
-      }
-    },
     "LEGAL TERMS" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -8268,12 +8176,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "LEGAL TERMS"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "TÉRMINOS LEGALES"
           }
         },
         "fr" : {
@@ -8328,6 +8230,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "IMIGOMO YOMTHETHO"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TÉRMINOS LEGALES"
           }
         }
       }
@@ -8510,95 +8418,6 @@
         }
       }
     },
-    "Live" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "af" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Leef"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "লাইভ"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Live"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Live"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vivir"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "En direct"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "रहना"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Živjeti"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hidup"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "लाइव्ह"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ao vivo"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "வாழ்க"
-          }
-        },
-        "te" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ప్రత్యక్షం"
-          }
-        },
-        "zu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Phila"
-          }
-        }
-      }
-    },
     "Live Text Scanning" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -8636,12 +8455,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Numérisation de texte en direct"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "लाइव टेक्स्ट स्कैनिंग"
           }
         },
         "hr" : {
@@ -8684,6 +8497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ukuskena kombhalo obukhoma"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लाइव टेक्स्ट स्कैनिंग"
           }
         }
       }
@@ -8828,12 +8647,6 @@
             "value" : "Tekan lama teks di tampilan kamera\\nuntuk mendapatkan terjemahan yang akurat"
           }
         },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "अचूक भाषांतर मिळवण्यासाठी कॅमेरा व्ह्यूमध्ये मजकूरावर जास्त वेळ दाबून ठेवा"
-          }
-        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8856,6 +8669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cindezela isikhathi eside umbhalo ekubukeni kwekhamera\\ukuze uthole ukuhumusha okunembile"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अचूक भाषांतर मिळवण्यासाठी कॅमेरा व्ह्यूमध्ये मजकूरावर जास्त वेळ दाबून ठेवा"
           }
         }
       }
@@ -8976,12 +8795,6 @@
             "value" : "Microphone access denied"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Acceso al micrófono denegado"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9034,6 +8847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ukufinyelela kwemakrofoni kunqatshiwe"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acceso al micrófono denegado"
           }
         }
       }
@@ -9095,12 +8914,6 @@
             "value" : "bulan"
           }
         },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "महिना"
-          }
-        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9123,6 +8936,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "inyanga"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "महिना"
           }
         }
       }
@@ -20604,7 +20423,87 @@
       }
     },
     "UIKit: String(localized: AppStrings.camera) ✅" : {
-
+      "extractionState" : "manual",
+      "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit: String (gelokaliseer: AppStrings.camera) ✅"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit: স্ট্রিং (স্থানীয়: AppStrings.camera) ✅"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit: String (lokalisiert: AppStrings.camera) ✅"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit: Cadena (localizada: AppStrings.camera) ✅"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit : String (localisé : AppStrings.camera) ✅"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit: स्ट्रिंग (स्थानीयकृत: AppStrings.camera) ✅"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit: String(lokalizirano: AppStrings.camera) ✅"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit: String (dilokalkan: AppStrings.camera) ✅"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit: स्ट्रिंग (स्थानिकीकृत: AppStrings.camera) ✅"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit: String (localizado: AppStrings.camera) ✅"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit: சரம் (உள்ளூர்: AppStrings.camera) ✅"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit: స్ట్రింగ్ (స్థానికీకరించబడింది: AppStrings.camera) ✅"
+          }
+        },
+        "zu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I-UIKit: Intambo(okwendawo: AppStrings.camera) ✅"
+          }
+        }
+      }
     },
     "Understand Every Word" : {
       "extractionState" : "manual",

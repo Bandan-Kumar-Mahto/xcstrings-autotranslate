@@ -183,7 +183,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "#!/bin/sh\n\nSCRIPT_PATH=\"${SRCROOT}/StringTranslatorDemo/Resources/translator.py\"\nRESOURCE_DIR=\"${SRCROOT}/StringTranslatorDemo/Resources\"\n\nif [ ! -f \"$SCRIPT_PATH\" ]; then\n    echo \"ERROR: Python script not found: $SCRIPT_PATH\"\n    exit 1\nfi\n\n/usr/bin/env python3 \"$SCRIPT_PATH\" --resource-dir \"$RESOURCE_DIR\" --no-interactive\n";
+			shellScript = "\nset -euo pipefail   # optional – fail fast on unexpected errors\n\nif [ -n \"${CI:-}\" ] || [ -n \"${XCODE_CLOUD:-}\" ]; then\n    echo \"⏭️ CI detected (CI=$CI) – skipping translator script.\"\n    exit 0\nfi\n\n# 2️⃣  Proceed only for the Debug configuration\nif [ \"$CONFIGURATION\" = \"Debug\" ]; then\n    echo \"▶️ Running debug‑only translator script\"\n\n    SCRIPT_PATH=\"${SRCROOT}/StringTranslatorDemo/Resources/translator.py\"\n    RESOURCE_DIR=\"${SRCROOT}/StringTranslatorDemo/Resources\"\n\n    if [ ! -f \"$SCRIPT_PATH\" ]; then\n        echo \"❗️ ERROR: Python script not found: $SCRIPT_PATH\"\n        exit 1\n    fi\n\n    /usr/bin/env python3 \"$SCRIPT_PATH\" \\\n        --resource-dir \"$RESOURCE_DIR\" \\\n        --no-interactive\nelse\n    echo \"⏭️ Skipping translator – not a Debug build (CONFIGURATION=$CONFIGURATION)\"\nfi\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
