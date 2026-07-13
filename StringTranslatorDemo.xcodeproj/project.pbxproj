@@ -7,7 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ECAD583D3004A88C003F0B52 /* translator.py in Resources */ = {isa = PBXBuildFile; fileRef = ECAD583C3004A88C003F0B52 /* translator.py */; };
 		ECB14D0F2FC45CA4005023DD /* Strings+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB14D0E2FC45CA4005023DD /* Strings+Extensions.swift */; };
+		ECB803F12FE28DBE00CEE720 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB803F02FE28DA900CEE720 /* ContentViewModel.swift */; };
 		ECC5083E2FBDAB70008A1EFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECC5083A2FBDAB70008A1EFA /* Assets.xcassets */; };
 		ECC5083F2FBDAB70008A1EFA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC5083B2FBDAB70008A1EFA /* ContentView.swift */; };
 		ECC508402FBDAB70008A1EFA /* StringTranslatorDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC5083C2FBDAB70008A1EFA /* StringTranslatorDemoApp.swift */; };
@@ -17,7 +19,9 @@
 
 /* Begin PBXFileReference section */
 		EC9DDF8F2FC026F50037993D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		ECAD583C3004A88C003F0B52 /* translator.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = translator.py; sourceTree = "<group>"; };
 		ECB14D0E2FC45CA4005023DD /* Strings+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Strings+Extensions.swift"; sourceTree = "<group>"; };
+		ECB803F02FE28DA900CEE720 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 		ECC5082C2FBDAB45008A1EFA /* StringTranslatorDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StringTranslatorDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECC5083A2FBDAB70008A1EFA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECC5083B2FBDAB70008A1EFA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -49,6 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				EC9DDF8F2FC026F50037993D /* README.md */,
+				ECAD583C3004A88C003F0B52 /* translator.py */,
 				ECC5083D2FBDAB70008A1EFA /* StringTranslatorDemo */,
 				ECC5082D2FBDAB45008A1EFA /* Products */,
 			);
@@ -68,6 +73,7 @@
 				ECB14D0D2FC45C6F005023DD /* Extensions */,
 				ECC508412FBDAB73008A1EFA /* Resources */,
 				ECC5083B2FBDAB70008A1EFA /* ContentView.swift */,
+				ECB803F02FE28DA900CEE720 /* ContentViewModel.swift */,
 				ECC5083C2FBDAB70008A1EFA /* StringTranslatorDemoApp.swift */,
 			);
 			path = StringTranslatorDemo;
@@ -159,6 +165,7 @@
 			files = (
 				ECC508472FBDAD88008A1EFA /* translator.py in Resources */,
 				ECC5083E2FBDAB70008A1EFA /* Assets.xcassets in Resources */,
+				ECAD583D3004A88C003F0B52 /* translator.py in Resources */,
 				ECD6B4CA2FBF342C00C60F2B /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -192,6 +199,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ECB803F12FE28DBE00CEE720 /* ContentViewModel.swift in Sources */,
 				ECB14D0F2FC45CA4005023DD /* Strings+Extensions.swift in Sources */,
 				ECC5083F2FBDAB70008A1EFA /* ContentView.swift in Sources */,
 				ECC508402FBDAB70008A1EFA /* StringTranslatorDemoApp.swift in Sources */,

@@ -40,6 +40,12 @@
             "value" : "langue téléchargée"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ભાષા ડાઉનલોડ કરી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -111,6 +117,12 @@
             "value" : "Dann"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " then"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -121,6 +133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "alors"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પછી"
           }
         },
         "hi" : {
@@ -212,6 +230,12 @@
             "value" : ", mais votre langue source est définie sur"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", પરંતુ તમારી સ્ત્રોત ભાષા પર સેટ છે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -299,6 +323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "\"Votre essentiel de voyage ultime : traduction en temps réel, n'importe où\" - AI Translate"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"તમારી અંતિમ મુસાફરી આવશ્યક છે - રીઅલ-ટાઇમ અનુવાદ, ગમે ત્યાં\" - AI અનુવાદ"
           }
         },
         "hi" : {
@@ -390,6 +420,12 @@
             "value" : "4,99 $/semaine"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "$4.99/અઠવાડિયું"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -477,6 +513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "9,99 $/mois"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "$9.99/મહિને"
           }
         },
         "hi" : {
@@ -568,6 +610,12 @@
             "value" : "Essai gratuit de 3 jours"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3 દિવસની મફત અજમાયશ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -655,6 +703,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accès à plus de 200 langues"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "200+ ભાષાઓની ઍક્સેસ"
           }
         },
         "hi" : {
@@ -746,6 +800,12 @@
             "value" : "Ajouter aux favoris"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બુકમાર્ક્સમાં ઉમેરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -833,6 +893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Caméra IA"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI કેમેરા"
           }
         },
         "hi" : {
@@ -924,6 +990,12 @@
             "value" : "Traduction par l'IA"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI અનુવાદ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1011,6 +1083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alerte"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ચેતવણી"
           }
         },
         "hi" : {
@@ -1102,6 +1180,12 @@
             "value" : "2 pages déjà sélectionnées"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પહેલેથી જ 2 પૃષ્ઠો પસંદ કર્યા છે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1191,6 +1275,12 @@
             "value" : "%1$(var1)@ et %2$(var2)@"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$(var1)@ અને %2$(var2)@"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1241,95 +1331,6 @@
         }
       }
     },
-    "AR" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "af" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AR"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "এআর"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AR"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AR"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Arkansas"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "RA"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "एआर"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AR"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AR"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ए.आर"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "RA"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AR"
-          }
-        },
-        "te" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AR"
-          }
-        },
-        "zu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "I-AR"
-          }
-        }
-      }
-    },
     "AR Object Translation" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1367,6 +1368,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traduction d’objets AR"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AR ઑબ્જેક્ટ અનુવાદ"
           }
         },
         "hi" : {
@@ -1458,6 +1465,12 @@
             "value" : "Etes-vous sûr de vouloir supprimer ce favori ? Votre historique ne sera pas affecté"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "શું તમે ખરેખર આ બુકમાર્ક કાઢી નાખવા માંગો છો? તમારો ઇતિહાસ અપ્રભાવિત રહેશે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1514,19 +1527,19 @@
         "af" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Outo"
+            "value" : "Ada"
           }
         },
         "bn" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "অটো"
+            "value" : "স্বয়ংক্রিয়"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Auto"
+            "value" : "Automatisch"
           }
         },
         "en" : {
@@ -1538,7 +1551,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Auto"
+            "value" : "Automático"
           }
         },
         "fr" : {
@@ -1547,10 +1560,16 @@
             "value" : "Auto"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઓટો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ऑटो"
+            "value" : "अपने-आप"
           }
         },
         "hr" : {
@@ -1562,37 +1581,37 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mobil"
+            "value" : "Otomatis"
           }
         },
         "mr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ऑटो"
+            "value" : "स्वयं(Auto)"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Auto"
+            "value" : "Automático"
           }
         },
         "ta" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ஆட்டோ"
+            "value" : "தானியங்கி"
           }
         },
         "te" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ఆటో"
+            "value" : "స్వయంచాలితం"
           }
         },
         "zu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Okuzenzakalelayo"
+            "value" : "Ukuzenzakalela"
           }
         }
       }
@@ -1634,6 +1653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dos"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પાછળ"
           }
         },
         "hi" : {
@@ -1687,86 +1712,98 @@
       }
     },
     "Bandan" : {
-      "comment" : "The name of the app.",
+      "comment" : "Developer's Name",
       "extractionState" : "manual",
       "isCommentAutoGenerated" : true,
       "localizations" : {
         "af" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bandan"
+            "value" : "Bandan Kumar"
           }
         },
         "bn" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "বন্দন"
+            "value" : "বান্দন কুমার"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bandan"
+            "value" : "Bandan Kumar"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bandan Kumar"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "bandana"
+            "value" : "Bandan Kumar"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bandan"
+            "value" : "Bandan Kumar"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બંદન કુમાર"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "बंदन"
+            "value" : "बंदन कुमार"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bandan"
+            "value" : "Bandan Kumar"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "bandana"
+            "value" : "Bandan Kumar"
           }
         },
         "mr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "बंदन"
+            "value" : "बंदन कुमार"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "bandana"
+            "value" : "Bandan Kumar"
           }
         },
         "ta" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "பந்தன்"
+            "value" : "பண்டன் குமார்"
           }
         },
         "te" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "బందన్"
+            "value" : "బండన్ కుమార్"
           }
         },
         "zu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bandan"
+            "value" : "Bandan Kumar"
           }
         }
       }
@@ -1808,6 +1845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Facturé mensuellement"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક બિલ"
           }
         },
         "hi" : {
@@ -1899,6 +1942,12 @@
             "value" : "Facturé chaque semaine"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અઠવાડિક બિલ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1986,6 +2035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Facturé annuellement"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાર્ષિક બિલ"
           }
         },
         "hi" : {
@@ -2077,6 +2132,12 @@
             "value" : "Signets"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બુકમાર્ક્સ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2164,6 +2225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Éliminez les barrières linguistiques dans les conversations en temps réel. Restez connecté, même hors ligne."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "રીઅલ-ટાઇમ વાતચીતમાં ભાષાના અવરોધોને તોડી નાખો. કનેક્ટેડ રહો, ઑફલાઇન પણ."
           }
         },
         "hi" : {
@@ -2255,6 +2322,12 @@
             "value" : "Briser les barrières linguistiques dans\\nchaque conversation"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "દરેક વાતચીતમાં\\nભાષાના અવરોધોને તોડો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2342,6 +2415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traduction de Cam"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કેમ અનુવાદ"
           }
         },
         "hi" : {
@@ -2433,6 +2512,12 @@
             "value" : "Caméra"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કેમેરા"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2520,6 +2605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accès à la caméra refusé"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કૅમેરાની ઍક્સેસ નકારી"
           }
         },
         "hi" : {
@@ -2611,6 +2702,12 @@
             "value" : "L'accès à la caméra est restreint et ne peut pas être modifié"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કૅમેરાની ઍક્સેસ પ્રતિબંધિત છે અને બદલી શકાતી નથી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2698,6 +2795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accès à la caméra restreint"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કૅમેરા ઍક્સેસ પ્રતિબંધિત"
           }
         },
         "hi" : {
@@ -2789,6 +2892,12 @@
             "value" : "Annuler"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "રદ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2876,6 +2985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impossible d'accéder au fichier"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ફાઇલ ઍક્સેસ કરી શકાતી નથી"
           }
         },
         "hi" : {
@@ -2967,6 +3082,12 @@
             "value" : "Impossible de permuter automatiquement la langue"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્વતઃ ભાષા સ્વેપ કરી શકાતી નથી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3056,6 +3177,12 @@
             "value" : "Capturer ou télécharger une image"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "છબી કેપ્ચર અથવા અપલોડ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3137,6 +3264,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Attention : SwiftUI Text() utilise toujours le langage système. Utilisez explicitement .dynamicLocalized ou LanguageManager."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ચેતવણી: SwiftUI ટેક્સ્ટ() હજુ પણ સિસ્ટમ ભાષાનો ઉપયોગ કરે છે. સ્પષ્ટપણે .dynamicLocalized અથવા LanguageManager નો ઉપયોગ કરો."
           }
         },
         "hi" : {
@@ -3228,6 +3361,12 @@
             "value" : "Changer de langue"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ભાષા બદલો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3315,6 +3454,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Effacer tous les favoris"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બધા બુકમાર્ક્સ સાફ કરો"
           }
         },
         "hi" : {
@@ -3406,6 +3551,12 @@
             "value" : "Effacer le signet"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બુકમાર્ક સાફ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3493,6 +3644,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continuer"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ચાલુ રાખો"
           }
         },
         "hi" : {
@@ -3584,6 +3741,12 @@
             "value" : "Conversation"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાતચીત"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3671,6 +3834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Conversations"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાતચીતો"
           }
         },
         "hi" : {
@@ -3762,6 +3931,12 @@
             "value" : "Copie"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "નકલ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3849,6 +4024,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thèmes personnalisés"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કસ્ટમ થીમ્સ"
           }
         },
         "hi" : {
@@ -3940,6 +4121,12 @@
             "value" : "Supprimer"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કાઢી નાખો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4027,6 +4214,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Supprimer tout"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બધા કાઢી નાખો"
           }
         },
         "hi" : {
@@ -4118,6 +4311,12 @@
             "value" : "Supprimer toutes les conversations"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બધી વાતચીતો કાઢી નાખો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4205,6 +4404,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Supprimer tout l'historique"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બધો ઇતિહાસ કાઢી નાખો"
           }
         },
         "hi" : {
@@ -4296,6 +4501,12 @@
             "value" : "Supprimer toutes les traductions"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બધા અનુવાદો કાઢી નાખો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4383,6 +4594,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Supprimer la conversation"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાતચીત કાઢી નાખો"
           }
         },
         "hi" : {
@@ -4474,6 +4691,12 @@
             "value" : "Supprimer l'entrée de l'historique"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇતિહાસ એન્ટ્રી કાઢી નાખો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4561,6 +4784,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Supprimer l'entrée de traduction"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અનુવાદ એન્ટ્રી કાઢી નાખો"
           }
         },
         "hi" : {
@@ -4652,6 +4881,12 @@
             "value" : "Conçu et développé avec amour et soin"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ડિઝાઇન અને પ્રેમ અને કાળજી સાથે વિકસાવવામાં"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4739,6 +4974,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dictionnaire"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "શબ્દકોશ"
           }
         },
         "hi" : {
@@ -4830,6 +5071,12 @@
             "value" : "Télécharger"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ડાઉનલોડ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4917,6 +5164,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traduisez facilement du texte à partir de photos, qu'il s'agisse d'un panneau, d'un menu ou d'un document. Il fonctionne hors ligne chaque fois que vous en avez besoin."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ફોટામાંથી ટેક્સ્ટનો સરળતાથી અનુવાદ કરો, પછી ભલે તે સાઇન, મેનૂ અથવા દસ્તાવેજ હોય. જ્યારે પણ તમને તેની જરૂર હોય ત્યારે તે ઑફલાઇન કાર્ય કરે છે."
           }
         },
         "hi" : {
@@ -5008,6 +5261,12 @@
             "value" : "Profitez de traductions ininterrompues en temps réel pour les conversations. Disponible hors ligne."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાર્તાલાપ માટે અવિરત રીઅલ-ટાઇમ અનુવાદોનો આનંદ લો. ઑફલાઇન ઉપલબ્ધ છે."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5095,6 +5354,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saisir du texte"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ટેક્સ્ટ દાખલ કરો"
           }
         },
         "hi" : {
@@ -5186,6 +5451,12 @@
             "value" : "Entrées"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રવેશો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5273,6 +5544,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entrée"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રવેશ"
           }
         },
         "hi" : {
@@ -5364,6 +5641,12 @@
             "value" : "Erreur"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ભૂલ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5451,6 +5734,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Une erreur s'est produite"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ભૂલ આવી"
           }
         },
         "hi" : {
@@ -5542,6 +5831,12 @@
             "value" : "Exemples"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઉદાહરણો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5629,6 +5924,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traduction de texte rapide et fiable quand\\nvous en avez besoin"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "જ્યારે પણ\\nતમને જરૂર હોય ત્યારે ઝડપી, વિશ્વસનીય ટેક્સ્ટ અનુવાદ"
           }
         },
         "hi" : {
@@ -5720,6 +6021,12 @@
             "value" : "Retour"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રતિસાદ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5807,6 +6114,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Femelle"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ત્રી"
           }
         },
         "hi" : {
@@ -5898,6 +6211,12 @@
             "value" : "Flash non disponible dans l'analyse en direct"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લાઇવ સ્કેનમાં ફ્લેશ ઉપલબ્ધ નથી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5985,6 +6304,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "pour une meilleure précision ?"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વધુ સારી ચોકસાઈ માટે?"
           }
         },
         "hi" : {
@@ -6076,6 +6401,12 @@
             "value" : "Depuis"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "થી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6163,6 +6494,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "OBTENEZ ANUELLEMENT - ÉCONOMISEZ"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાર્ષિક મેળવો - સાચવો"
           }
         },
         "hi" : {
@@ -6254,6 +6591,12 @@
             "value" : "OBTENEZ MENSUELLEMENT - ÉCONOMISEZ"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક મેળવો - સાચવો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6341,6 +6684,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Commencer"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રારંભ કરો"
           }
         },
         "hi" : {
@@ -6432,6 +6781,12 @@
             "value" : "OBTENEZ PAR SEMAINE"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સાપ્તાહિક મેળવો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6519,6 +6874,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Obtenez votre personnalisé"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારું વ્યક્તિગત મેળવો"
           }
         },
         "hi" : {
@@ -6610,6 +6971,12 @@
             "value" : "Allez dans Paramètres"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સેટિંગ્સ પર જાઓ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6666,7 +7033,7 @@
         "af" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Haptics"
+            "value" : "Haptika"
           }
         },
         "bn" : {
@@ -6697,6 +7064,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Haptique"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હેપ્ટિક્સ"
           }
         },
         "hi" : {
@@ -6788,6 +7161,12 @@
             "value" : "Avoir une conversation dans n'importe quelle langue\\ntraduite sans effort"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોઈપણ ભાષામાં વાર્તાલાપ કરો\\આરામ વિના અનુવાદ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6877,6 +7256,12 @@
             "value" : "Bonjour"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હેલો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6960,6 +7345,12 @@
             "value" : "Bonjour %@"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હેલો %@"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7010,87 +7401,97 @@
         }
       }
     },
-    "Hello, world!" : {
-      "comment" : "A greeting message displayed in the app's main view.",
+    "Hello Honey Bunny" : {
       "extractionState" : "manual",
-      "isCommentAutoGenerated" : true,
       "localizations" : {
         "af" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hallo, wêreld!"
+            "value" : "Hallo Honey Bunny"
           }
         },
         "bn" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "হ্যালো, বিশ্ব!"
+            "value" : "হ্যালো হানি বানি"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hallo Welt!"
+            "value" : "Hallo Honighase"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello Honey Bunny"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Hola Mundo!"
+            "value" : "Hola Honey Bunny"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bonjour le monde!"
+            "value" : "Bonjour chérie lapin"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હેલો હની બન્ની"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "हैलो वर्ल्ड!"
+            "value" : "हैलो हनी बनी"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zdravo svijete!"
+            "value" : "Pozdrav, medeni zečiću"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Halo dunia!"
+            "value" : "Halo Honey Bunny"
           }
         },
         "mr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "नमस्कार, जग!"
+            "value" : "हॅलो हनी बनी"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Olá, mundo!"
+            "value" : "Olá querido coelhinho"
           }
         },
         "ta" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "வணக்கம், உலகம்!"
+            "value" : "ஹலோ ஹனி பன்னி"
           }
         },
         "te" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "హలో, ప్రపంచం!"
+            "value" : "హలో హనీ బన్నీ"
           }
         },
         "zu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sawubona Mhlaba!"
+            "value" : "Sawubona Honey Bunny"
           }
         }
       }
@@ -7132,6 +7533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Masquer les forfaits"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "યોજનાઓ છુપાવો"
           }
         },
         "hi" : {
@@ -7223,6 +7630,12 @@
             "value" : "Histoire"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઈતિહાસ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7310,6 +7723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Conserver le texte pour une traduction précise"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ચોક્કસ અનુવાદ માટે ટેક્સ્ટને પકડી રાખો"
           }
         },
         "hi" : {
@@ -7401,6 +7820,12 @@
             "value" : "Image enregistrée"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "છબી સાચવી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7488,6 +7913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traduction d’images"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "છબી અનુવાદ"
           }
         },
         "hi" : {
@@ -7579,6 +8010,12 @@
             "value" : "Incognito"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "છુપી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7668,6 +8105,12 @@
             "value" : "initialisation..."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આરંભ કરી રહ્યું છે..."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7749,6 +8192,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interpolation ✅"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇન્ટરપોલેશન ✅"
           }
         },
         "hi" : {
@@ -7834,6 +8283,12 @@
             "value" : "Langue"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ભાષા"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7911,10 +8366,22 @@
             "value" : "Language Mismatch Detected"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discordancia de idioma detectada"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Incompatibilité de langue détectée"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ભાષાની મેળ ખાતી નથી"
           }
         },
         "hi" : {
@@ -7964,12 +8431,6 @@
             "state" : "translated",
             "value" : "Kutholwe Ukungafani Kolimi"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Discordancia de idioma detectada"
-          }
         }
       }
     },
@@ -8010,6 +8471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Langue non téléchargée :"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ભાષા ડાઉનલોડ કરી નથી:"
           }
         },
         "hi" : {
@@ -8101,6 +8568,12 @@
             "value" : "Langues"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ભાષાઓ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8178,10 +8651,22 @@
             "value" : "LEGAL TERMS"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TÉRMINOS LEGALES"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "CONDITIONS JURIDIQUES"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કાનૂની શરતો"
           }
         },
         "hi" : {
@@ -8231,12 +8716,6 @@
             "state" : "translated",
             "value" : "IMIGOMO YOMTHETHO"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "TÉRMINOS LEGALES"
-          }
         }
       }
     },
@@ -8277,6 +8756,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Durée de vie"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આજીવન"
           }
         },
         "hi" : {
@@ -8368,6 +8853,12 @@
             "value" : "Écoute..."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સાંભળી રહ્યું છે..."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8457,6 +8948,18 @@
             "value" : "Numérisation de texte en direct"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લાઇવ ટેક્સ્ટ સ્કેનિંગ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लाइव टेक्स्ट स्कैनिंग"
+          }
+        },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8498,12 +9001,6 @@
             "state" : "translated",
             "value" : "Ukuskena kombhalo obukhoma"
           }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "लाइव टेक्स्ट स्कैनिंग"
-          }
         }
       }
     },
@@ -8538,6 +9035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Démo de localisation"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્થાનિકીકરણ ડેમો"
           }
         },
         "hi" : {
@@ -8629,6 +9132,12 @@
             "value" : "Appuyez longuement sur le texte dans la vue caméra\\pour obtenir une traduction précise"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સચોટ અનુવાદ મેળવવા માટે\\nકેમેરા વ્યૂમાં ટેક્સ્ટને વધુ સમય સુધી દબાવી રાખો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8645,6 +9154,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tekan lama teks di tampilan kamera\\nuntuk mendapatkan terjemahan yang akurat"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अचूक भाषांतर मिळवण्यासाठी कॅमेरा व्ह्यूमध्ये मजकूरावर जास्त वेळ दाबून ठेवा"
           }
         },
         "pt-BR" : {
@@ -8669,12 +9184,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cindezela isikhathi eside umbhalo ekubukeni kwekhamera\\ukuze uthole ukuhumusha okunembile"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "अचूक भाषांतर मिळवण्यासाठी कॅमेरा व्ह्यूमध्ये मजकूरावर जास्त वेळ दाबून ठेवा"
           }
         }
       }
@@ -8716,6 +9225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mâle"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પુરુષ"
           }
         },
         "hi" : {
@@ -8795,10 +9310,22 @@
             "value" : "Microphone access denied"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acceso al micrófono denegado"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accès au microphone refusé"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માઇક્રોફોન ઍક્સેસ નકાર્યો"
           }
         },
         "hi" : {
@@ -8848,12 +9375,6 @@
             "state" : "translated",
             "value" : "Ukufinyelela kwemakrofoni kunqatshiwe"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Acceso al micrófono denegado"
-          }
         }
       }
     },
@@ -8896,6 +9417,12 @@
             "value" : "mois"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "મહિનો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8912,6 +9439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "bulan"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "महिना"
           }
         },
         "pt-BR" : {
@@ -8936,12 +9469,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "inyanga"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "महिना"
           }
         }
       }
@@ -8983,6 +9510,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Forfait mensuel"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક યોજના"
           }
         },
         "hi" : {
@@ -9074,6 +9607,12 @@
             "value" : "plus"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વધુ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9161,6 +9700,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nouveau"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "નવી"
           }
         },
         "hi" : {
@@ -9252,6 +9797,12 @@
             "value" : "Nouvelle version disponible"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "નવું સંસ્કરણ ઉપલબ્ધ છે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9339,6 +9890,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucun favori pour l'instant"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હજુ સુધી કોઈ બુકમાર્ક્સ નથી"
           }
         },
         "hi" : {
@@ -9430,6 +9987,12 @@
             "value" : "Aucune conversation pour l'instant"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હજુ સુધી કોઈ વાતચીત નથી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9517,6 +10080,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucune conversation"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોઈ વાતચીત નથી"
           }
         },
         "hi" : {
@@ -9608,6 +10177,12 @@
             "value" : "Aucune conversation à supprimer."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કાઢી નાખવા માટે કોઈ વાર્તાલાપ નથી."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9695,6 +10270,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucune conversation pour l'instant"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હજુ સુધી કોઈ વાતચીત નથી"
           }
         },
         "hi" : {
@@ -9786,6 +10367,12 @@
             "value" : "Pas d'historique"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોઈ ઇતિહાસ નથી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9873,6 +10460,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucun historique à supprimer."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કાઢી નાખવા માટે કોઈ ઇતિહાસ નથી."
           }
         },
         "hi" : {
@@ -9964,6 +10557,12 @@
             "value" : "Pas encore d'historique"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હજુ સુધી કોઈ ઈતિહાસ નથી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10051,6 +10650,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucune image reconnue, veuillez réessayer"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોઈ છબી ઓળખાઈ નથી, કૃપા કરીને ફરી પ્રયાસ કરો"
           }
         },
         "hi" : {
@@ -10142,6 +10747,12 @@
             "value" : "Pas de connexion Internet"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇન્ટરનેટ કનેક્શન નથી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10229,6 +10840,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pas d'antécédent récent"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોઈ તાજેતરનો ઇતિહાસ નથી"
           }
         },
         "hi" : {
@@ -10320,6 +10937,12 @@
             "value" : "Pas encore d'historique récent"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હજી સુધી કોઈ તાજેતરનો ઇતિહાસ નથી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10407,6 +11030,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucune réponse reçue"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોઈ જવાબ મળ્યો નથી"
           }
         },
         "hi" : {
@@ -10498,6 +11127,12 @@
             "value" : "Aucune recherche trouvée"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોઈ શોધ મળી નથી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10585,6 +11220,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucun texte détecté"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોઈ ટેક્સ્ટ મળ્યો નથી"
           }
         },
         "hi" : {
@@ -10676,6 +11317,12 @@
             "value" : "Non connecté"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લૉગ ઇન નથી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10765,6 +11412,12 @@
             "value" : "ne prend pas en charge la voix vers le texte"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વૉઇસ ટુ ટેક્સ્ટને સપોર્ટ કરતું નથી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10846,6 +11499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Remarque : nécessite des fichiers .strings classiques par langue (en.lproj, fr.lproj…), et non des .xcstrings."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "નોંધ: ભાષા દીઠ ક્લાસિક .સ્ટ્રિંગ્સ ફાઇલોની જરૂર છે (en.lproj, fr.lproj …), .xcstrings નહીં."
           }
         },
         "hi" : {
@@ -10937,6 +11596,12 @@
             "value" : "Objet déjà découvert, veuillez en essayer un autre."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઑબ્જેક્ટ પહેલેથી જ શોધાયેલ છે, કૃપા કરીને એક અલગ પ્રયાસ કરો."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11024,6 +11689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hors ligne"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઑફલાઇન"
           }
         },
         "hi" : {
@@ -11115,6 +11786,12 @@
             "value" : "D'accord"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઓકે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11202,6 +11879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "D'accord"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઠીક છે"
           }
         },
         "hi" : {
@@ -11293,6 +11976,12 @@
             "value" : "D'accord, je l'ai compris !"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઠીક છે, સમજાયું!"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11380,6 +12069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bon, j'écoute..."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઠીક છે, હું સાંભળું છું ..."
           }
         },
         "hi" : {
@@ -11471,6 +12166,12 @@
             "value" : "Caméra IA ouverte"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI કેમેરા ખોલો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11558,6 +12259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autre clé %1$(someThing)@"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અન્ય કી %1$(someThing)@"
           }
         },
         "hi" : {
@@ -11649,6 +12356,12 @@
             "value" : "pages"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પૃષ્ઠો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11711,7 +12424,7 @@
         "bn" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "পিডিএফ"
+            "value" : "PDF"
           }
         },
         "de" : {
@@ -11738,10 +12451,16 @@
             "value" : "PDF"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PDF"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पीडीएफ"
+            "value" : "PDF"
           }
         },
         "hr" : {
@@ -11827,6 +12546,12 @@
             "value" : "Traduction de PDF et de documents"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પીડીએફ અને દસ્તાવેજ અનુવાદ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11872,7 +12597,7 @@
         "zu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PDF & Document Translation"
+            "value" : "Ukuhumusha Kwe-PDF Namadokhumenti"
           }
         }
       }
@@ -11914,6 +12639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autorisation refusée"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પરવાનગી નકારી"
           }
         },
         "hi" : {
@@ -12005,6 +12736,12 @@
             "value" : "Autorisation requise"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પરવાનગી જરૂરી છે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12092,6 +12829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Photos"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ફોટા"
           }
         },
         "hi" : {
@@ -12183,6 +12926,12 @@
             "value" : "Veuillez vérifier la configuration de votre messagerie"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કૃપા કરીને તમારી મેઇલ ગોઠવણી તપાસો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12270,6 +13019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Veuillez activer l'accès au microphone dans les paramètres de votre appareil pour utiliser les fonctionnalités vocales."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વૉઇસ સુવિધાઓનો ઉપયોગ કરવા માટે કૃપા કરીને તમારા ઉપકરણ સેટિંગ્સમાં માઇક્રોફોન ઍક્સેસ સક્ષમ કરો"
           }
         },
         "hi" : {
@@ -12361,6 +13116,12 @@
             "value" : "Veuillez activer l'accès aux photos dans les paramètres de votre appareil pour continuer."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આગળ વધવા માટે કૃપા કરીને તમારા ઉપકરણ સેટિંગ્સમાં ફોટો ઍક્સેસ સક્ષમ કરો."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12448,6 +13209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Veuillez vous connecter pour envoyer des commentaires"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પ્રતિસાદ મોકલવા માટે કૃપા કરીને લૉગ ઇન કરો"
           }
         },
         "hi" : {
@@ -12539,6 +13306,12 @@
             "value" : "Veuillez réessayer !"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કૃપા કરીને ફરી પ્રયાસ કરો!"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12626,6 +13399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Veuillez mettre à jour votre application avec la nouvelle version pour continuer"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ચાલુ રાખવા માટે કૃપા કરીને નવા સંસ્કરણ સાથે તમારી એપ્લિકેશન અપડેટ કરો"
           }
         },
         "hi" : {
@@ -12717,6 +13496,12 @@
             "value" : "Populaire"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "લોકપ્રિય"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12804,6 +13589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PRÉFÉRENCES"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પસંદગીઓ"
           }
         },
         "hi" : {
@@ -12895,6 +13686,12 @@
             "value" : "politique de confidentialité"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગોપનીયતા નીતિ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12945,95 +13742,6 @@
         }
       }
     },
-    "PRO" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "af" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRO"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRO"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRO"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRO"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRO"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRO"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "प्रो"
-          }
-        },
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRO"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRO"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "प्रो"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRÓ"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRO"
-          }
-        },
-        "te" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRO"
-          }
-        },
-        "zu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PRO"
-          }
-        }
-      }
-    },
     "Pull down to show history" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -13071,6 +13779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Déroulez pour afficher l'historique"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇતિહાસ બતાવવા માટે નીચે ખેંચો"
           }
         },
         "hi" : {
@@ -13162,6 +13876,12 @@
             "value" : "Évaluez-nous"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અમને રેટ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13249,6 +13969,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Récent"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તાજેતરના"
           }
         },
         "hi" : {
@@ -13340,6 +14066,12 @@
             "value" : "Récent en premier"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તાજેતરનું પ્રથમ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13427,6 +14159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Retirer"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "દૂર કરો"
           }
         },
         "hi" : {
@@ -13518,6 +14256,12 @@
             "value" : "Supprimer des favoris"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બુકમાર્ક્સમાંથી દૂર કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13605,6 +14349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Redémarrer la session"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સત્ર પુનઃપ્રારંભ કરો"
           }
         },
         "hi" : {
@@ -13696,6 +14446,12 @@
             "value" : "Restaurer"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પુનઃસ્થાપિત કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13783,6 +14539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Réessayer"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ફરી પ્રયાસ કરો"
           }
         },
         "hi" : {
@@ -13874,6 +14636,12 @@
             "value" : "AVIS ET PARTAGE"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સમીક્ષાઓ અને શેરિંગ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13961,6 +14729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sauvegarder"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સાચવો"
           }
         },
         "hi" : {
@@ -14052,6 +14826,12 @@
             "value" : "Échec de l'enregistrement"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સાચવવાનું નિષ્ફળ થયું"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14139,6 +14919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Numérisez du texte en temps réel avec votre appareil photo et obtenez des traductions instantanées, où que vous soyez."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારા કૅમેરા વડે રીઅલ-ટાઇમમાં ટેક્સ્ટ સ્કૅન કરો અને તમે જ્યાં પણ હોવ, ત્વરિત અનુવાદો મેળવો."
           }
         },
         "hi" : {
@@ -14230,6 +15016,12 @@
             "value" : "Numérisez du texte à l'aide de votre appareil photo et obtenez des traductions instantanées. Disponible hors ligne."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારા કેમેરાનો ઉપયોગ કરીને ટેક્સ્ટ સ્કેન કરો અને ત્વરિત અનુવાદો મેળવો. ઑફલાઇન ઉપલબ્ધ છે."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14317,6 +15109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scanner non pris en charge"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્કેનર સપોર્ટેડ નથી"
           }
         },
         "hi" : {
@@ -14408,6 +15206,12 @@
             "value" : "Faites défiler vers le bas pour afficher l'historique"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઇતિહાસ જોવા માટે નીચે સ્ક્રોલ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14495,6 +15299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voir plus de forfaits"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વધુ યોજનાઓ જુઓ"
           }
         },
         "hi" : {
@@ -14586,6 +15396,12 @@
             "value" : "Consultez vos traductions récentes\\nen faisant défiler l'écran vers le bas"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્ક્રીન નીચે સ્ક્રોલ કરીને\\nતમારા તાજેતરના અનુવાદો જુઓ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14673,6 +15489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sélectionnez les pages PDF"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પીડીએફ પૃષ્ઠો પસંદ કરો"
           }
         },
         "hi" : {
@@ -14764,6 +15586,12 @@
             "value" : "Sélectionnez jusqu'à"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સુધી પસંદ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14851,6 +15679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sélectionnez votre forfait"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારી યોજના પસંદ કરો"
           }
         },
         "hi" : {
@@ -14942,6 +15776,12 @@
             "value" : "Choisi"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પસંદ કરેલ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15029,6 +15869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સેટિંગ્સ"
           }
         },
         "hi" : {
@@ -15120,6 +15966,12 @@
             "value" : "Partager"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "શેર કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15207,6 +16059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Partager une application"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એક એપ શેર કરો"
           }
         },
         "hi" : {
@@ -15298,6 +16156,12 @@
             "value" : "Sauter"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "છોડો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15385,6 +16249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonctionnalités intelligentes"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્માર્ટ સુવિધાઓ"
           }
         },
         "hi" : {
@@ -15476,6 +16346,12 @@
             "value" : "Suggestions intelligentes"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્માર્ટ સૂચનો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15565,6 +16441,12 @@
             "value" : "Prenez une photo et traduisez instantanément le texte des images, comme les menus et les panneaux. Disponible hors ligne."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ફોટો ખેંચો અને તરત જ છબીઓમાંથી ટેક્સ્ટનો અનુવાદ કરો, જેમ કે મેનુ અને ચિહ્નો. ઑફલાઇન ઉપલબ્ધ છે."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15615,6 +16497,101 @@
         }
       }
     },
+    "Some other string" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog 'n string"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "অন্য কিছু স্ট্রিং"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine andere Zeichenfolge"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some other string"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alguna otra cadena"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une autre chaîne"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કેટલાક અન્ય શબ્દમાળા"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कुछ अन्य स्ट्रिंग"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neki drugi niz"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beberapa string lainnya"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इतर काही स्ट्रिंग"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alguma outra string"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "வேறு சில சரம்"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "కొన్ని ఇతర స్ట్రింగ్"
+          }
+        },
+        "zu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enye intambo"
+          }
+        }
+      }
+    },
     "SomeKey" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -15652,6 +16629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Une clé"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કેટલીક કી"
           }
         },
         "hi" : {
@@ -15743,6 +16726,12 @@
             "value" : "Une erreur s'est produite lors de la demande d'accès à la caméra"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કૅમેરા ઍક્સેસની વિનંતી કરતી વખતે કંઈક ખોટું થયું"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15830,6 +16819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quelque chose s'est mal passé. Veuillez réessayer plus tard."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કંઈક ખોટું થયું. કૃપા કરીને પછીથી ફરી પ્રયાસ કરો."
           }
         },
         "hi" : {
@@ -15921,6 +16916,12 @@
             "value" : "Parlez dans le micro et vos mots seront\\ntraduits dans la langue de votre choix."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માઇકમાં બોલો અને તમારા શબ્દોનો\\nપસંદગીની ભાષામાં અનુવાદ કરવામાં આવશે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16008,6 +17009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parler. Traduire. Converser"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "બોલો. અનુવાદ કરો. વાતચીત"
           }
         },
         "hi" : {
@@ -16099,6 +17106,12 @@
             "value" : "Accès à la reconnaissance vocale refusé"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાણી ઓળખની ઍક્સેસ નકારી"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16188,6 +17201,12 @@
             "value" : "Arrêt"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "રોકો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16241,7 +17260,91 @@
     "string" : {
       "extractionState" : "manual",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "zu" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@"
@@ -16286,6 +17389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abonnez-vous mensuellement"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માસિક સબ્સ્ક્રાઇબ કરો"
           }
         },
         "hi" : {
@@ -16377,6 +17486,12 @@
             "value" : "Abonnez-vous chaque semaine"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સાપ્તાહિક સબ્સ્ક્રાઇબ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16464,6 +17579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bien sûr"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ચોક્કસ"
           }
         },
         "hi" : {
@@ -16555,6 +17676,12 @@
             "value" : "Faites glisser votre doigt vers le haut pour traduire"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અનુવાદ કરવા માટે ઉપર સ્વાઇપ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16642,6 +17769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Synonyme"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સમાનાર્થી"
           }
         },
         "hi" : {
@@ -16733,6 +17866,12 @@
             "value" : "Parlez sans limites"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "મર્યાદા વિના વાત કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16820,6 +17959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Appuyez ici pour commencer à numériser et\\ntraduire du texte avec une précision optimisée par l'IA"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI-સંચાલિત સચોટતા સાથે ટેક્સ્ટને સ્કેન કરવા અને\\nઅનુવાદ કરવાનું શરૂ કરવા માટે અહીં ટૅપ કરો"
           }
         },
         "hi" : {
@@ -16911,6 +18056,12 @@
             "value" : "Appuyez sur n'importe quel objet pour le traduire\\ndans votre langue préférée en RA"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AR માં તમારી પસંદગીની ભાષામાં\\nઅનુવાદ કરવા માટે કોઈપણ ઑબ્જેક્ટ પર ટૅપ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16998,6 +18149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Appuyez sur le micro pour démarrer la conversation"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાતચીત શરૂ કરવા માટે માઈક પર ટેપ કરો"
           }
         },
         "hi" : {
@@ -17089,6 +18246,12 @@
             "value" : "Appuyez sur Objet pour la traduction AR"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AR અનુવાદ માટે ઑબ્જેક્ટ પર ટેપ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17176,6 +18339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Appuyez sur le micro pour démarrer une conversation et\\nobtenir des traductions en temps réel"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાતચીત શરૂ કરવા માટે માઇક પર ટૅપ કરો અને રીઅલ-ટાઇમમાં અનુવાદો મેળવો"
           }
         },
         "hi" : {
@@ -17267,6 +18436,12 @@
             "value" : "Conditions d'utilisation"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઉપયોગની શરતો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17317,6 +18492,101 @@
         }
       }
     },
+    "Test String" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toetsstring"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "টেস্ট স্ট্রিং"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Testzeichenfolge"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test String"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cadena de prueba"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chaîne de test"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ટેસ્ટ સ્ટ્રિંગ"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "टेस्ट स्ट्रिंग"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Testni niz"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rangkaian Tes"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "चाचणी स्ट्रिंग"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sequência de teste"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "சோதனை சரம்"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "టెస్ట్ స్ట్రింగ్"
+          }
+        },
+        "zu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test String"
+          }
+        }
+      }
+    },
     "Text copied now paste anywhere" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -17354,6 +18624,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Texte copié maintenant collé n'importe où"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોપી કરેલ ટેક્સ્ટ હવે ગમે ત્યાં પેસ્ટ કરો"
           }
         },
         "hi" : {
@@ -17445,6 +18721,12 @@
             "value" : "Texte copié!"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ટેક્સ્ટ કૉપિ કર્યો!"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17528,6 +18810,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Message texte"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ટેક્સ્ટ સંદેશ"
           }
         },
         "hi" : {
@@ -17619,6 +18907,12 @@
             "value" : "Texte non reconnu – veuillez réessayer"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ટેક્સ્ટ ઓળખાયો નથી – કૃપા કરીને ફરી પ્રયાસ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17706,6 +19000,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La traduction du texte a échoué"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ટેક્સ્ટનો અનુવાદ નિષ્ફળ થયો"
           }
         },
         "hi" : {
@@ -17797,6 +19097,12 @@
             "value" : "La session AR a échoué"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AR સત્ર નિષ્ફળ થયું"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17886,6 +19192,12 @@
             "value" : "Le texte détecté est en"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "શોધાયેલ ટેક્સ્ટ અંદર છે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17936,6 +19248,101 @@
         }
       }
     },
+    "This is the context" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit is die konteks"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "এই প্রেক্ষাপটে"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das ist der Kontext"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This is the context"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esto no es el contexto."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C'est le contexte"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ સંદર્ભ છે"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "यह संदर्भ है"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ovo je kontekst"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ini konteksnya"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "असा आहे संदर्भ"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esse é o contexto."
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "இதுவே இடஅமைவு"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఇదే సందర్భము"
+          }
+        },
+        "zu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lona umongo"
+          }
+        }
+      }
+    },
     "This will be removed from conversation history. Are you sure?" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -17973,6 +19380,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cela sera supprimé de l’historique des conversations. Es-tu sûr?"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ વાતચીત ઇતિહાસમાંથી કાઢી નાખવામાં આવશે. શું તમને ખાતરી છે?"
           }
         },
         "hi" : {
@@ -18064,6 +19477,12 @@
             "value" : "Cela sera supprimé de l’historique et des favoris. Es-tu sûr?"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આને ઇતિહાસ અને બુકમાર્ક્સમાંથી દૂર કરવામાં આવશે. શું તમને ખાતરી છે?"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18151,6 +19570,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cela sera supprimé de l’historique des traductions et des favoris. Es-tu sûr?"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આને અનુવાદ ઇતિહાસ અને બુકમાર્ક્સમાંથી દૂર કરવામાં આવશે. શું તમને ખાતરી છે?"
           }
         },
         "hi" : {
@@ -18242,6 +19667,12 @@
             "value" : "Cela supprimera toutes les conversations. Es-tu sûr?"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ તમામ વાર્તાલાપ દૂર કરશે. શું તમને ખાતરી છે?"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18329,6 +19760,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cela supprimera tout l’historique et les signets. Es-tu sûr?"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ તમામ ઇતિહાસ અને બુકમાર્ક્સને દૂર કરશે. શું તમને ખાતરી છે?"
           }
         },
         "hi" : {
@@ -18420,6 +19857,12 @@
             "value" : "Cela supprimera tout l’historique des traductions et les signets. Es-tu sûr?"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ તમામ અનુવાદ ઇતિહાસ અને બુકમાર્ક્સને દૂર કરશે. શું તમને ખાતરી છે?"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18507,6 +19950,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "À"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "થી"
           }
         },
         "hi" : {
@@ -18598,6 +20047,12 @@
             "value" : "à utiliser hors ligne"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ઑફલાઇન ઉપયોગ કરવા માટે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18685,6 +20140,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pour utiliser les fonctionnalités vocales, veuillez activer la reconnaissance vocale dans les paramètres de votre appareil."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાણી સુવિધાઓનો ઉપયોગ કરવા માટે, કૃપા કરીને તમારા ઉપકરણ સેટિંગ્સમાં વાણી ઓળખ સક્ષમ કરો"
           }
         },
         "hi" : {
@@ -18776,6 +20237,12 @@
             "value" : "Pour utiliser la caméra, veuillez activer l'accès dans les paramètres de votre appareil."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કેમેરાનો ઉપયોગ કરવા માટે, કૃપા કરીને તમારા ઉપકરણ સેટિંગ્સમાં ઍક્સેસ સક્ષમ કરો."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18863,6 +20330,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aujourd'hui"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આજે"
           }
         },
         "hi" : {
@@ -18954,6 +20427,12 @@
             "value" : "Tonifier"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સ્વર"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19041,6 +20520,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traduire"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અનુવાદ કરો"
           }
         },
         "hi" : {
@@ -19132,6 +20617,12 @@
             "value" : "Traduire l'IA"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI નો અનુવાદ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19219,6 +20710,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traduisez n'importe quoi, n'importe où, dans\\nplus de 150 langues !"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "કોઈપણ વસ્તુનો, ગમે ત્યાં અનુવાદ કરો -\\n150+ ભાષાઓમાં!"
           }
         },
         "hi" : {
@@ -19310,6 +20807,12 @@
             "value" : "Traduisez à tout moment, n'importe où, en ligne ou hors ligne, avec un accès illimité aux fonctionnalités avancées"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અદ્યતન સુવિધાઓની અમર્યાદિત ઍક્સેસ સાથે, ગમે ત્યારે, ગમે ત્યાં, ઑનલાઇન અથવા ઑફલાઇન અનુવાદ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19397,6 +20900,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traduisez instantanément le texte des images et des\\ndocuments"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "છબીઓ અને\\nદસ્તાવેજોમાંથી તરત જ ટેક્સ્ટનો અનુવાદ કરો"
           }
         },
         "hi" : {
@@ -19488,6 +20997,12 @@
             "value" : "Traduisez du texte dans plus de 200 langues, à tout moment, où que vous soyez, même hors ligne."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ટેક્સ્ટનો 200 થી વધુ ભાષાઓમાં અનુવાદ કરો, ગમે ત્યારે તમને તેની જરૂર હોય, પછી ભલે તમે ગમે ત્યાં હોવ — ઑફલાઇન પણ."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19575,6 +21090,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traduisez vos documents en toute transparence, sans interruption, même hors ligne."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારા દસ્તાવેજોનો એકીકૃત, વિક્ષેપો વિના, ઑફલાઇન પણ અનુવાદ કરો."
           }
         },
         "hi" : {
@@ -19666,6 +21187,12 @@
             "value" : "Traduisez facilement vos documents, même lorsque vous êtes hors ligne. Toujours à portée de main."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમે ઑફલાઇન હોવ ત્યારે પણ તમારા દસ્તાવેજોનો સરળતા સાથે અનુવાદ કરો. હંમેશા તમારી આંગળીના વેઢે."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19753,6 +21280,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traduction de texte..."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ટેક્સ્ટનો અનુવાદ કરી રહ્યાં છીએ..."
           }
         },
         "hi" : {
@@ -19844,6 +21377,12 @@
             "value" : "Traduire..."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અનુવાદ કરી રહ્યાં છીએ..."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19931,6 +21470,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traduction"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અનુવાદ"
           }
         },
         "hi" : {
@@ -20022,6 +21567,12 @@
             "value" : "Échec de la traduction"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અનુવાદ નિષ્ફળ થયો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20109,6 +21660,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traductions"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અનુવાદો"
           }
         },
         "hi" : {
@@ -20200,6 +21757,12 @@
             "value" : "Traducteur maintenant !"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હવે અનુવાદક!"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20289,6 +21852,12 @@
             "value" : "Essayez pour"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માટે પ્રયાસ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20372,6 +21941,12 @@
             "value" : "Utilisation de l'UIKit"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit નો ઉપયોગ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20453,6 +22028,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "UIKit : String (localisé : AppStrings.camera) ✅"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit: સ્ટ્રિંગ (સ્થાનિક: AppStrings.camera) ✅"
           }
         },
         "hi" : {
@@ -20544,6 +22125,12 @@
             "value" : "Comprendre chaque mot"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "દરેક શબ્દને સમજો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20631,6 +22218,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "État de la caméra inconnu"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અજ્ઞાત કૅમેરાની સ્થિતિ"
           }
         },
         "hi" : {
@@ -20722,6 +22315,12 @@
             "value" : "Conversations illimitées"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અમર્યાદિત વાતચીત"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20809,6 +22408,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Langue non prise en charge"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અસમર્થિત ભાષા"
           }
         },
         "hi" : {
@@ -20900,6 +22505,12 @@
             "value" : "Mise à jour"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અપડેટ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20987,6 +22598,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mise à niveau"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અપગ્રેડ કરો"
           }
         },
         "hi" : {
@@ -21078,6 +22695,12 @@
             "value" : "Mettre à niveau vers"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પર અપગ્રેડ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21165,6 +22788,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Passez à Premium pour une expérience améliorée avec un accès illimité aux fonctionnalités avancées et aux avantages complets"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અદ્યતન સુવિધાઓ અને સંપૂર્ણ લાભોની અમર્યાદિત ઍક્સેસ સાથે ઉન્નત અનુભવ માટે પ્રીમિયમ પર અપગ્રેડ કરો"
           }
         },
         "hi" : {
@@ -21256,6 +22885,12 @@
             "value" : "Télécharger le PDF"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "પીડીએફ અપલોડ કરો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21343,6 +22978,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visualisez les traductions sur des objets du monde réel en temps réel grâce à la réalité augmentée. Disponible hors ligne."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સંવર્ધિત વાસ્તવિકતા સાથે રીઅલ-ટાઇમમાં વાસ્તવિક-વિશ્વની વસ્તુઓ પરના અનુવાદો જુઓ. ઑફલાઇન ઉપલબ્ધ છે."
           }
         },
         "hi" : {
@@ -21434,6 +23075,12 @@
             "value" : "Voix"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અવાજ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21521,6 +23168,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voix non disponible pour"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "માટે અવાજ ઉપલબ્ધ નથી"
           }
         },
         "hi" : {
@@ -21612,6 +23265,12 @@
             "value" : "Voix non disponible pour cette langue."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "આ ભાષા માટે અવાજ ઉપલબ્ધ નથી."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21699,6 +23358,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VITESSE DE LA VOIX"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વૉઇસ સ્પીડ"
           }
         },
         "hi" : {
@@ -21790,6 +23455,12 @@
             "value" : "Le volume est trop faible"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વોલ્યુમ ખૂબ ઓછું છે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21877,6 +23548,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nous n'avons détecté aucun texte dans l'image. Veuillez vous assurer que le texte est clair et visible, puis réessayez."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અમે છબીમાં કોઈપણ ટેક્સ્ટ શોધી શક્યાં નથી. કૃપા કરીને ખાતરી કરો કે ટેક્સ્ટ સ્પષ્ટ અને દૃશ્યમાન છે, પછી ફરી પ્રયાસ કરો."
           }
         },
         "hi" : {
@@ -21968,6 +23645,12 @@
             "value" : "Nous n'avons détecté aucun texte dans l'image PDF. Veuillez vous assurer que le texte est clair et visible, puis réessayez."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અમે પીડીએફ ઈમેજમાં કોઈપણ ટેક્સ્ટ શોધી શક્યાં નથી. કૃપા કરીને ખાતરી કરો કે ટેક્સ્ટ સ્પષ્ટ અને દૃશ્યમાન છે, પછી ફરી પ્રયાસ કરો."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22055,6 +23738,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nous n'avons trouvé aucun favori correspondant à votre recherche. Essayez d'utiliser des mots-clés différents."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અમે તમારી શોધ સાથે મેળ ખાતા કોઈપણ બુકમાર્ક શોધી શક્યા નથી. વિવિધ કીવર્ડ્સનો ઉપયોગ કરવાનો પ્રયાસ કરો."
           }
         },
         "hi" : {
@@ -22146,6 +23835,12 @@
             "value" : "Nous n'avons trouvé aucune conversation correspondant à votre recherche. Essayez d'utiliser des mots-clés différents."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અમે તમારી શોધ સાથે મેળ ખાતી કોઈપણ વાતચીત શોધી શક્યા નથી. વિવિધ કીવર્ડ્સનો ઉપયોગ કરવાનો પ્રયાસ કરો."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22233,6 +23928,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nous n'avons trouvé aucun historique correspondant à votre recherche. Essayez d'utiliser des mots-clés différents."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અમે તમારી શોધ સાથે મેળ ખાતો કોઈપણ ઇતિહાસ શોધી શક્યા નથી. વિવિધ કીવર્ડ્સનો ઉપયોગ કરવાનો પ્રયાસ કરો."
           }
         },
         "hi" : {
@@ -22324,6 +24025,12 @@
             "value" : "Nous n'avons trouvé aucune langue correspondant à votre recherche. Essayez d'utiliser des mots-clés différents."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અમે તમારી શોધ સાથે મેળ ખાતી કોઈપણ ભાષા શોધી શક્યા નથી. વિવિધ કીવર્ડ્સનો ઉપયોગ કરવાનો પ્રયાસ કરો."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22411,6 +24118,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nous n’avons pas pu récupérer la traduction pour le moment. Veuillez réessayer."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અમે અત્યારે અનુવાદ પુનઃપ્રાપ્ત કરી શક્યાં નથી. કૃપા કરીને ફરી પ્રયાસ કરો."
           }
         },
         "hi" : {
@@ -22502,6 +24215,12 @@
             "value" : "Nous n'avons pas pu enregistrer votre image."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અમે તમારી છબી સાચવી શક્યાં નથી."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22589,6 +24308,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nous n'avons pas pu traduire le texte de l'image. Veuillez réessayer avec une image plus claire ou un texte différent"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "અમે છબીમાંથી ટેક્સ્ટનો અનુવાદ કરી શક્યાં નથી. કૃપા કરીને સ્પષ્ટ છબી અથવા અલગ ટેક્સ્ટ સાથે ફરી પ્રયાસ કરો"
           }
         },
         "hi" : {
@@ -22680,6 +24405,12 @@
             "value" : "semaine"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સપ્તાહ"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22769,6 +24500,12 @@
             "value" : "Forfait hebdomadaire"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "સાપ્તાહિક યોજના"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22850,6 +24587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonctionne avec .xcstrings — Xcode le compile dans en.lproj/Localizing.strings, fr.lproj/… au moment de la construction, afin que la recherche du bundle réussisse."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".xcstrings સાથે કામ કરે છે — Xcode તેને en.lproj/Localizable.strings, fr.lproj/… બિલ્ડ સમયે કમ્પાઈલ કરે છે, જેથી બંડલ લુકઅપ સફળ થાય છે."
           }
         },
         "hi" : {
@@ -22941,6 +24684,12 @@
             "value" : "Souhaitez-vous changer la langue source en"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "શું તમે સ્ત્રોત ભાષાને આમાં બદલવા માંગો છો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23028,6 +24777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "année"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વર્ષ"
           }
         },
         "hi" : {
@@ -23119,6 +24874,12 @@
             "value" : "Plan annuel"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "વાર્ષિક યોજના"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23208,6 +24969,12 @@
             "value" : "Hier"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ગઈકાલે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23258,6 +25025,101 @@
         }
       }
     },
+    "You my pumpkin pumpkin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jy my pampoen pampoen"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "তুমি আমার কুমড়া কুমড়া"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du mein Kürbis Kürbis"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You my pumpkin pumpkin"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tú mi calabaza calabaza"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toi ma citrouille citrouille"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમે મારા કોળાના કોળા"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "तुम मेरे कद्दू के कद्दू"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ti si moja bundeva bundeva"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamu labu labuku"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "तू मेरी पिंपरी पिंपरी चिंचवड"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você minha abóbora abóbora"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "நீ என் பூசணி பூசணி"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "మీరు నా గుమ్మడికాయ గుమ్మడికాయ"
+          }
+        },
+        "zu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wena ithanga lami"
+          }
+        }
+      }
+    },
     "You’ll be charged" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -23295,6 +25157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vous serez facturé"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારી પાસેથી શુલ્ક લેવામાં આવશે"
           }
         },
         "hi" : {
@@ -23386,6 +25254,12 @@
             "value" : "Vous utilisez la traduction hors ligne"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમે ઑફલાઇન અનુવાદનો ઉપયોગ કરી રહ્યાં છો"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23473,6 +25347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vos favoris apparaîtront\\nici une fois ajoutés"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "એકવાર ઉમેર્યા પછી તમારા બુકમાર્ક્સ\\nઅહીં દેખાશે"
           }
         },
         "hi" : {
@@ -23564,6 +25444,12 @@
             "value" : "Vos favoris seront effacés, mais votre historique restera. Voulez-vous continuer ?"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારા બુકમાર્ક્સ ભૂંસી નાખવામાં આવશે, પરંતુ તમારો ઇતિહાસ રહેશે. શું તમે ચાલુ રાખવા માંગો છો?"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23651,6 +25537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Votre conversation s'affichera ici"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારી વાતચીત અહીં દેખાશે"
           }
         },
         "hi" : {
@@ -23742,6 +25634,12 @@
             "value" : "Votre appareil ne prend pas en charge la numérisation Live Text. Assurez-vous que vous disposez d'un appareil compatible et que l'accès à la caméra est activé"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારું ઉપકરણ લાઇવ ટેક્સ્ટ સ્કેનિંગને સપોર્ટ કરતું નથી. ખાતરી કરો કે તમારી પાસે સુસંગત ઉપકરણ અને કેમેરા ઍક્સેસ સક્ષમ છે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23829,6 +25727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Votre historique s'affichera ici"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારો ઇતિહાસ અહીં દેખાશે"
           }
         },
         "hi" : {
@@ -23920,6 +25824,12 @@
             "value" : "Votre image a été enregistrée avec succès dans Photos."
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારી છબી સફળતાપૂર્વક Photos માં સાચવવામાં આવી છે."
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24009,6 +25919,12 @@
             "value" : "Votre activité récente s'affichera ici"
           }
         },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારી તાજેતરની પ્રવૃત્તિ અહીં બતાવવામાં આવશે"
+          }
+        },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24096,6 +26012,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "L'essentiel de votre voyage : traduction en temps réel, n'importe où - Translate AI"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારી અંતિમ મુસાફરી જરૂરી — રીઅલ-ટાઇમ અનુવાદ, ગમે ત્યાં - અનુવાદ AI"
           }
         },
         "hi" : {
