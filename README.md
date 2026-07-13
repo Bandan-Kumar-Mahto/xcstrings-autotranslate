@@ -2,6 +2,11 @@
 
 Automatically translate your app's `.xcstrings` (String Catalog) files using Google Translate — integrated directly into the Xcode build pipeline. Every time you build, any untranslated strings are detected and translated automatically with no manual work required.
 
+> **💡 Heads up**
+> When writing strings in code, prefer the [`L("key")`](#approach-4--l-helper-function) function — Xcode auto-extracts it into `.xcstrings` on build, so this translator picks it up with zero manual steps.
+>
+> If you need to add a large number of strings at once (e.g. sweeping through a ViewModel or several files), doing it one `L("...")` call at a time gets tedious. Check out **[StringPilot](https://github.com/Bandan-Kumar-Mahto/StringPilot-Xcode-Localization-Wizard)** — a companion macOS app that scans your Swift files for string literals, lets you add keys directly into the `.xcstrings` file itself, audits your `.strings`/`.xcstrings` catalogs for missing or untranslated entries, and can batch-translate them (AI-powered or with a free api's integration and a fallback chain that almost never fails).
+
 ---
 
 ## Table of Contents
@@ -19,7 +24,6 @@ Automatically translate your app's `.xcstrings` (String Catalog) files using Goo
 - [Performance Tuning — Thread Pool](#performance-tuning--thread-pool)
 - [Best Practices](#best-practices)
 - [How It Works (Under the Hood)](#how-it-works-under-the-hood)
-- [Adding Images to This README](#adding-images-to-this-readme)
 
 ---
 
@@ -419,14 +423,3 @@ Xcode Build  →  Run Script Phase  →  translator.py runs
 ```
 
 The script only processes strings that do not yet have a translation (state is not `"translated"`). Strings that are already translated are left untouched, keeping build times fast after the initial run.
-
----
-
-## Adding Images to This README
-
-Screenshots referenced in this README live in the [ReadmeResources/](ReadmeResources/) folder at the project root. To add or update one:
-
-1. Drop the image file into `ReadmeResources/`.
-2. Reference it in Markdown with a relative path: `![Alt text](ReadmeResources/YourImage.png)`.
-
----
