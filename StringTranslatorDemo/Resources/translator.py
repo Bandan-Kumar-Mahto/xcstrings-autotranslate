@@ -138,6 +138,9 @@ LOCALE_NORMALIZATION = {
     "zh-sg": "zh-CN",
     "zh_cn": "zh-CN",
     "zh_tw": "zh-TW",
+    # Filipino (Philippines) — Google Translate uses "tl" (Tagalog), not "fil"
+    "fil-ph": "tl",
+    "fil": "tl",
 }
 
 LANGUAGE_ALIAS_NORMALIZATION = {
@@ -577,10 +580,11 @@ for key, item in strings.items():
             value = unit.get("value", "")
             state = unit.get("state", "")
 
-            # Retry anything not translated
+            # Retry anything not translated or flagged for review
             if (
                 value is None
                 or value.strip() == ""
+                or state == "needs_review"
                 or state != "translated"
             ):
                 needs_translation = True

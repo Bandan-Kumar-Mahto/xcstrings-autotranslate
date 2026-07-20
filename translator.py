@@ -138,6 +138,9 @@ LOCALE_NORMALIZATION = {
     "zh-sg": "zh-CN",
     "zh_cn": "zh-CN",
     "zh_tw": "zh-TW",
+    # Filipino (Philippines) — Google Translate uses "tl" (Tagalog), not "fil"
+    "fil-ph": "tl",
+    "fil": "tl",
 }
 
 LANGUAGE_ALIAS_NORMALIZATION = {
