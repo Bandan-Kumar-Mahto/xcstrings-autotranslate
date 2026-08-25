@@ -268,14 +268,26 @@ label.text = NSLocalizedString("Cancel", comment: "Dismiss alert") // ✅ extrac
 
 ### Approach 4 — `L()` helper function
 
-> Requires [Step 4](#step-4--add-the-localization-helper-functions-optional) — copy `Strings+Extensions.swift` into your project first.
-
 A thin wrapper around `String(localized:)`. Because its parameter type is `LocalizedStringResource`, Xcode 15+ extracts string literals you pass to it. Also supports interpolation.
 
+**Implementation:**
+
+Add this helper function in a Swift file (e.g. `Strings+Extensions.swift`):
+```swift
+import Foundation
+
+@inline(__always)
+func L(_ resource: LocalizedStringResource) -> String {
+    String(localized: resource)
+}
+```
+
+**Usage:**
 ```swift
 label.text = L("Cancel")          // ✅ extracted
 label.text = L("Hello \(name)")   // ✅ extracted (interpolation supported)
 ```
+
 
 ---
 
